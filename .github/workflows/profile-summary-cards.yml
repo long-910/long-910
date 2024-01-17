@@ -1,6 +1,8 @@
 name: Github-Profile-Summary-Cards
 
 on:
+  # for manual workflow trigger
+  workflow_dispatch:
   schedule: # execute every 24 hours
     # runs at 12 AM UTC (5:30 AM IST)
     - cron: "0 0 * * *"
