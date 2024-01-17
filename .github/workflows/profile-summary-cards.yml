@@ -1,4 +1,4 @@
-name: Update-Readme
+name: Github-Profile-Summary-Cards
 
 on:
   schedule: # execute every 24 hours
@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  profile-summary-cards:
+  build:
     runs-on: ubuntu-latest
     name: generate
 
