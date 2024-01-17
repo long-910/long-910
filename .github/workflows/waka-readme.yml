@@ -14,4 +14,4 @@ jobs:
     steps:
       - uses: athul/waka-readme@master # this action name
         with:
-          WAKATIME_API_KEY: ${{ secrets.PROFILE_SUMMARY_CARDS }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
