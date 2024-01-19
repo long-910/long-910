@@ -10,6 +10,8 @@
   <a href="https://github.com/long-910">
     <img height="20" src="https://img.shields.io/github/followers/long-910?label=follow&logo=github&style=flat" />
   </a>
+  <a href="https://wakatime.com/@018d17c5-99c7-44b8-81d4-6c1cc14c1a15"><img src="https://wakatime.com/badge/user/018d17c5-99c7-44b8-81d4-6c1cc14c1a15.svg" alt="Total time coded since Jan 17 2024" />
+  </a>
 </p>
 
 <p align="left"> 
