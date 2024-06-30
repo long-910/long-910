@@ -43,8 +43,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other      1 hr 7 mins     ████████████████████▓░░░░   82.02 %
-Markdown   14 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.98 %
+Other      1 hr 59 mins    ██████████████████████▒░░   89.01 %
+Markdown   14 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.99 %
 ```
 
 <!--END_SECTION:waka-->
