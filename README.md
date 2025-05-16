@@ -43,8 +43,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other   6 mins          █████████████████████████   99.86 %
-Git     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
