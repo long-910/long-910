@@ -43,9 +43,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     40 mins         █████████████████████████   99.34 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
-HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+Markdown   40 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
