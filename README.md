@@ -1,44 +1,73 @@
-### Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=long-910&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20Open%20Source%20Enthusiast&descAlignY=62&descSize=20&descColor=cdd9e5" width="100%" />
 
-[![GitHub-Profile-Summary-Cards](https://github.com/long-910/long-910/actions/workflows/profile-summary-cards.yml/badge.svg)](https://github.com/long-910/long-910/actions/workflows/profile-summary-cards.yml)
-[![Waka Readme](https://github.com/long-910/long-910/actions/workflows/waka-readme.yml/badge.svg)](https://github.com/long-910/long-910/actions/workflows/waka-readme.yml)
+<p align="right">🌐 English &nbsp;|&nbsp; <a href="./README.ja.md">日本語</a> &nbsp;|&nbsp; <a href="./README.zh.md">中文</a></p>
 
-<p align="left">
-  <a href="https://github.com/long-910/long-910/">
-    <img src="https://komarev.com/ghpvc/?username=long-910" alt="long-910" />
-  </a>
-  <a href="https://github.com/long-910">
-    <img height="20" src="https://img.shields.io/github/followers/long-910?label=follow&logo=github&style=flat" />
-  </a>
-  <a href="https://wakatime.com/@018d17c5-99c7-44b8-81d4-6c1cc14c1a15"><img src="https://wakatime.com/badge/user/018d17c5-99c7-44b8-81d4-6c1cc14c1a15.svg" alt="Total time coded since Jan 17 2024" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+web+apps+with+Next.js+%26+TypeScript;Creating+VSCode+%26+Chrome+Extensions;Writing+tech+articles+on+Zenn+%E2%9C%8D%EF%B8%8F;Exploring+Rust+and+Open+Source+%F0%9F%A6%80" alt="Typing SVG" />
+</div>
 
-<p align="left"> 
-<!--
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=long-910&layout=compact&count_private=true&show_icons=true&theme=onedark" />
--->
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=long-910&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
-</p>
+<br>
 
-<!--
-[![trophy](https://github-profile-trophy.vercel.app/?username=long-910&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
--->
+<div align="center">
+
+[![Profile Views](https://komarev.com/ghpvc/?username=long-910&style=flat-square&color=58a6ff&label=Profile+Views)](https://github.com/long-910/long-910/)
+[![Followers](https://img.shields.io/github/followers/long-910?label=Followers&logo=github&style=flat-square&color=58a6ff)](https://github.com/long-910)
+[![WakaTime](https://wakatime.com/badge/user/018d17c5-99c7-44b8-81d4-6c1cc14c1a15.svg?style=flat-square)](https://wakatime.com/@018d17c5-99c7-44b8-81d4-6c1cc14c1a15)
+
+</div>
+
+---
+
+### 🙋 About Me
+
+- 🔭 Building **GraphHub** (GitHub follow-graph visualizer) & **[vscode-view-charset](https://marketplace.visualstudio.com/items?itemName=long-kudo.vscode-view-charset)** (VSCode extension)
+- ✍️ Writing tech articles on [Zenn](https://zenn.dev/long910) and my blog [910.jp](https://910.jp/)
+- 🦀 Exploring **Rust** and contributing to open source
+- ⚡ Also into competitive programming (C/C++) and Chrome extension development
+
+<br>
+
+<div align="center">
+
+[![Blog](https://img.shields.io/badge/Blog-910.jp-0A0A0A?style=for-the-badge&logo=jekyll&logoColor=white)](https://910.jp/)
+[![Zenn](https://img.shields.io/badge/Zenn-long910-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white)](https://zenn.dev/long910)
+[![VS Marketplace](https://img.shields.io/badge/VS%20Marketplace-long--kudo-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://marketplace.visualstudio.com/publishers/long-kudo)
+
+</div>
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=ts,js,py,rust,c,nextjs,react,tailwind,nodejs,docker,git,linux,mysql,vscode&perline=7&theme=dark)](https://skillicons.dev)
+
+</div>
+
+---
+
+### 📊 GitHub Stats
 
 [![](https://raw.githubusercontent.com/long-910/long-910/main/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-<!--
-[![](https://raw.githubusercontent.com/long-910/long-910/main/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
--->
+[![](https://raw.githubusercontent.com/long-910/long-910/main/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)[![](https://raw.githubusercontent.com/long-910/long-910/main/profile-summary-card-output/monokai/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-[![](https://raw.githubusercontent.com/long-910/long-910/main/profile-summary-card-output/monokai/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)[![](https://raw.githubusercontent.com/long-910/long-910/main/profile-summary-card-output/monokai/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/long-910/long-910/main/profile-summary-card-output/monokai/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)[![](https://raw.githubusercontent.com/long-910/long-910/main/profile-summary-card-output/monokai/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-<!--
-[![](https://raw.githubusercontent.com/long-910/long-910/main/profile-summary-card-output/monokai/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-->
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### 🐍 Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/long-910/long-910/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/long-910/long-910/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/long-910/long-910/output/github-contribution-grid-snake.svg" />
+</picture>
+
+---
+
+### ⏱️ Coding Activity
 
 <!--START_SECTION:waka-->
 
@@ -52,22 +81,12 @@ CSS          4 mins                ▓░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-<!--
-下記を参考
-https://zenn.dev/a_ichi1/articles/0411396e6b887d
--->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,11,6&height=120&section=footer" width="100%" />
 
-<!--
-**long-910/long-910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="right">
 
-Here are some ideas to get you started:
+[![GitHub-Profile-Summary-Cards](https://github.com/long-910/long-910/actions/workflows/profile-summary-cards.yml/badge.svg)](https://github.com/long-910/long-910/actions/workflows/profile-summary-cards.yml)
+[![Waka Readme](https://github.com/long-910/long-910/actions/workflows/waka-readme.yml/badge.svg)](https://github.com/long-910/long-910/actions/workflows/waka-readme.yml)
+[![Generate Snake](https://github.com/long-910/long-910/actions/workflows/snake.yml/badge.svg)](https://github.com/long-910/long-910/actions/workflows/snake.yml)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
