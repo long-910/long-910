@@ -13,6 +13,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=long-910&style=flat-square&color=58a6ff&label=Profile+Views)](https://github.com/long-910/long-910/)
 [![Followers](https://img.shields.io/github/followers/long-910?label=Followers&logo=github&style=flat-square&color=58a6ff)](https://github.com/long-910)
 [![WakaTime](https://wakatime.com/badge/user/018d17c5-99c7-44b8-81d4-6c1cc14c1a15.svg?style=flat-square)](https://wakatime.com/@018d17c5-99c7-44b8-81d4-6c1cc14c1a15)
+[![Sponsor](https://img.shields.io/badge/Sponsor-GitHub-pink?logo=github)](https://github.com/sponsors/long-910)
 
 </div>
 
