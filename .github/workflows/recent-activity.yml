@@ -1,0 +1,40 @@
+name: Recent Activity
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: Update README with recent GitHub activity
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Update English README
+        uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT_MSG: "Update README with recent activity"
+          MAX_LINES: 10
+          README_FILE: "README.md"
+
+      - name: Update Japanese README
+        uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT_MSG: "Update README.ja.md with recent activity"
+          MAX_LINES: 10
+          README_FILE: "README.ja.md"
+
+      - name: Update Chinese README
+        uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT_MSG: "Update README.zh.md with recent activity"
+          MAX_LINES: 10
+          README_FILE: "README.zh.md"

@@ -1,39 +1,76 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=long-910&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=%E5%85%A8%E6%A0%88%E5%BC%80%E5%8F%91%E8%80%85%20%7C%20%E5%BC%80%E6%BA%90%E7%88%B1%E5%A5%BD%E8%80%85&descAlignY=62&descSize=20&descColor=cdd9e5" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=long-910&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=%E6%B1%BD%E8%BD%A6%E5%B5%8C%E5%85%A5%E5%BC%8F%20%7C%20%E5%85%A8%E6%A0%88%E5%BC%80%E5%8F%91%E8%80%85%20%7C%20%E5%BC%80%E6%BA%90&descAlignY=62&descSize=20&descColor=cdd9e5" width="100%" />
 
-<p align="right"><a href="./README.md">English</a> &nbsp;|&nbsp; <a href="./README.ja.md">日本語</a> &nbsp;|&nbsp; 🌐 中文</p>
+<p align="right"><a href="./README.md">🇺🇸 English</a> &nbsp;|&nbsp; <a href="./README.ja.md">🇯🇵 日本語</a> &nbsp;|&nbsp; 🇨🇳 中文</p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=600&size=18&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=%E4%BD%BF%E7%94%A8+Next.js+%26+TypeScript+%E5%BC%80%E5%8F%91+Web+%E5%BA%94%E7%94%A8;%E5%BC%80%E5%8F%91+VSCode+%26+Chrome+%E6%89%A9%E5%B1%95%E6%8F%92%E4%BB%B6;%E5%9C%A8+Zenn+%E5%8F%91%E5%B8%83%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0+%E2%9C%8D%EF%B8%8F;%E6%8E%A2%E7%B4%A2+Rust+%E4%B8%8E%E5%BC%80%E6%BA%90%E4%B8%96%E7%95%8C+%F0%9F%A6%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=600&size=18&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=%E6%B1%BD%E8%BD%A6%E5%B5%8C%E5%85%A5%E5%BC%8F+%2F+ADAS+%2F+%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6;%E4%BD%BF%E7%94%A8+Next.js+%26+TypeScript+%E5%BC%80%E5%8F%91+Web+%E5%BA%94%E7%94%A8;%E5%BC%80%E5%8F%91+VSCode+%26+Chrome+%E6%89%A9%E5%B1%95%E6%8F%92%E4%BB%B6;%E5%9C%A8+Zenn+%E5%8F%91%E5%B8%83%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0+%E2%9C%8D%EF%B8%8F" alt="Typing SVG" />
 </div>
-
-<br>
 
 <div align="center">
 
 [![Profile Views](https://komarev.com/ghpvc/?username=long-910&style=flat-square&color=58a6ff&label=Profile+Views)](https://github.com/long-910/long-910/)
-[![Followers](https://img.shields.io/github/followers/long-910?label=Followers&logo=github&style=flat-square&color=58a6ff)](https://github.com/long-910)
+[![GitHub Followers](https://img.shields.io/github/followers/long-910?label=Followers&logo=github&style=flat-square&color=58a6ff&logoColor=white)](https://github.com/long-910)
+[![Sponsor](https://img.shields.io/badge/Sponsor-GitHub-ea4aaa?style=flat-square&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/long-910)
+
+[![Zenn 文章数](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fzenn.dev%2Fapi%2Fusers%2Flong910&query=%24.user.articles_count&label=%E6%96%87%E7%AB%A0%E6%95%B0&color=3EA8FF&logo=zenn&logoColor=white&style=flat-square)](https://zenn.dev/long910)
+[![Zenn 粉丝数](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fzenn.dev%2Fapi%2Fusers%2Flong910&query=%24.user.followers_count&label=%E7%B2%89%E4%B8%9D%E6%95%B0&color=3EA8FF&logo=zenn&logoColor=white&style=flat-square)](https://zenn.dev/long910)
+[![Zenn 点赞数](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fzenn.dev%2Fapi%2Fusers%2Flong910&query=%24.user.liked_count&label=%E7%82%B9%E8%B5%9E%E6%95%B0&color=3EA8FF&logo=zenn&logoColor=white&style=flat-square)](https://zenn.dev/long910)
+
 [![WakaTime](https://wakatime.com/badge/user/018d17c5-99c7-44b8-81d4-6c1cc14c1a15.svg?style=flat-square)](https://wakatime.com/@018d17c5-99c7-44b8-81d4-6c1cc14c1a15)
+[![博客](https://img.shields.io/badge/博客-910.jp-3EA8FF?style=flat-square&logo=jekyll&logoColor=white)](https://910.jp/)
+[![VS Marketplace](https://img.shields.io/badge/VS%20Marketplace-long--910-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)](https://marketplace.visualstudio.com/publishers/long-kudo)
+
+</div>
+
+<div align="center">
+
+[![GitHub-Profile-Summary-Cards](https://github.com/long-910/long-910/actions/workflows/profile-summary-cards.yml/badge.svg)](https://github.com/long-910/long-910/actions/workflows/profile-summary-cards.yml)
+[![Waka Readme](https://github.com/long-910/long-910/actions/workflows/waka-readme.yml/badge.svg)](https://github.com/long-910/long-910/actions/workflows/waka-readme.yml)
+[![Generate Snake](https://github.com/long-910/long-910/actions/workflows/snake.yml/badge.svg)](https://github.com/long-910/long-910/actions/workflows/snake.yml)
+
+[![Zenn Blog Posts](https://github.com/long-910/long-910/actions/workflows/zenn-blog-post.yml/badge.svg)](https://github.com/long-910/long-910/actions/workflows/zenn-blog-post.yml)
+[![Recent Activity](https://github.com/long-910/long-910/actions/workflows/recent-activity.yml/badge.svg)](https://github.com/long-910/long-910/actions/workflows/recent-activity.yml)
 
 </div>
 
 ---
 
-### 🙋 关于我
+### 🖥️ 关于我
 
-- 🔭 正在开发 **GraphHub**（GitHub 关注关系可视化工具）与 **[vscode-view-charset](https://marketplace.visualstudio.com/items?itemName=long-kudo.vscode-view-charset)**（VSCode 插件）
-- ✍️ 在 [Zenn](https://zenn.dev/long910) 和博客 [910.jp](https://910.jp/) 发布技术文章
-- 🦀 探索 **Rust** 及开源贡献
-- ⚡ 同时热衷于算法竞赛（C/C++）和 Chrome 扩展开发
+```txt
+[    0.000000] Booting long-910-automotive-system v2.6.0
+[    0.001245] CPU: Arm Cortex-A78AE / x86_64 (Multi-Arch Support)
+[    0.005832] Initializing Heterogeneous Computing Platform...
+[    0.104921]  - [  OK  ] NVIDIA DRIVE Orin (Ampere GPU / Deep Learning Accelerator)
+[    0.218440]  - [  OK  ] Renesas R-Car (Automotive Grade SoC)
+[    0.342991]  - [  OK  ] Toshiba Visconti (Image Recognition Engine)
+[    0.482012] Detected OS: Real-Time Operating System (RTOS)
+[    0.550103] ASIL-D Safety Integrity Level: Initialized
+[    0.620934] Starting Automotive Communication Services...
+[    0.730219]  - [  OK  ] CAN-FD / Automotive Ethernet Stack
+[    0.850442]  - [  OK  ] Sensor Fusion Engine (LiDAR/Radar/Camera)
+[    1.102938] Starting Application Services...
+[    1.240291]  - Launching: GraphHub Logic [ RUNNING ]
+[    1.360123]  - Loading: Rust-based Safety Modules [ SUCCESS ]
+[    1.890332] System Status: Ready (Real-time constraints met)
 
-<br>
+long-910 login: long-910
+Password: ************
+Last login: Tue Mar  3 21:55:40 on ttyS0
 
-<div align="center">
+Welcome to long-910's Profile!
+------------------------------------------------------------
+* Expertise: Automotive Embedded / ADAS / Autonomous Driving
+* Hardware:  NVIDIA Orin, Renesas R-Car, Toshiba Visconti
+* CPU/Arch:  Arm, x86, RTOS
+* Languages: Rust, C++, TypeScript, Python
+------------------------------------------------------------
 
-[![Blog](https://img.shields.io/badge/博客-910.jp-0A0A0A?style=for-the-badge&logo=jekyll&logoColor=white)](https://910.jp/)
-[![Zenn](https://img.shields.io/badge/Zenn-long910-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white)](https://zenn.dev/long910)
-[![VS Marketplace](https://img.shields.io/badge/VS%20Marketplace-long--kudo-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://marketplace.visualstudio.com/publishers/long-kudo)
+long-910@automotive:~$ ls -F ./workspace
+ claude-tmux-status/  GraphHub/  Zenn-Articles/  Embedded-Rust-Tools/
 
-</div>
+long-910@automotive:~$ _
+```
 
 ---
 
@@ -47,7 +84,20 @@
 
 ---
 
+### 🚀 精选项目
+
+<div align="center">
+
+[![GraphHub](https://github-readme-stats.vercel.app/api/pin/?username=long-910&repo=GraphHub&theme=monokai&hide_border=true)](https://github.com/long-910/GraphHub)
+[![vscode-view-charset](https://github-readme-stats.vercel.app/api/pin/?username=long-910&repo=vscode-view-charset&theme=monokai&hide_border=true)](https://github.com/long-910/vscode-view-charset)
+
+</div>
+
+---
+
 ### 📊 GitHub 统计
+
+<div align="center">
 
 [![](https://raw.githubusercontent.com/long-910/long-910/main/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
@@ -55,9 +105,15 @@
 
 [![](https://raw.githubusercontent.com/long-910/long-910/main/profile-summary-card-output/monokai/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)[![](https://raw.githubusercontent.com/long-910/long-910/main/profile-summary-card-output/monokai/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=long-910&theme=monokai&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
 ---
 
 ### 🐍 贡献图
+
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/long-910/long-910/output/github-contribution-grid-snake-dark.svg" />
@@ -65,16 +121,27 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/long-910/long-910/output/github-contribution-grid-snake.svg" />
 </picture>
 
+</div>
+
+---
+
+### ⚡ 近期动态
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+### 📝 最新博客文章
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ---
 
 ### ⏱️ 编码活动
 
-```txt
-Markdown     1 hr 20 mins          ██████████▓░░░░░░░░░░░░░░   43.04 %
-JSON         44 mins               ██████░░░░░░░░░░░░░░░░░░░   23.74 %
-TypeScript   38 mins               █████▒░░░░░░░░░░░░░░░░░░░   20.72 %
-Other        12 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.48 %
-CSS          4 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
-```
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,11,6&height=120&section=footer" width="100%" />
