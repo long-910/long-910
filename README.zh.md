@@ -135,6 +135,11 @@ long-910@automotive:~$ _
 ### 📝 最新博客文章
 
 <!-- BLOG-POST-LIST:START -->
+- [Claude Code をスマホやタブレットからリモート操作する「/remote-control」完全ガイド](https://zenn.dev/long910/articles/2026-03-01-claude-code-remote-control)
+- [ClaudeとGeminiの「Nano Banana」を連携して画像生成を自動化する完全ガイド](https://zenn.dev/long910/articles/2026-02-28-claude-gemini-nano-banana)
+- [Claude Code の使用量をVS Codeのステータスバーでリアルタイム監視する「vscode-claude-status」を作った](https://zenn.dev/long910/articles/2026-02-28-vscode-claude-status)
+- [Claude Code の使用量をtmuxのステータスバーでリアルタイム監視する「claude-tmux-status」を作った](https://zenn.dev/long910/articles/2026-02-23-claude-tmux-status)
+- [GitHubのフォロー関係をグラフで可視化するWebアプリ「GraphHub」を作った](https://zenn.dev/long910/articles/2026-02-23-graphhub-introduction)
 <!-- BLOG-POST-LIST:END -->
 
 ---
