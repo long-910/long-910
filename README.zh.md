@@ -18,12 +18,42 @@
 
 ---
 
-### 🙋 关于我
+### 🖥️ 关于我
 
-- 🔭 正在开发 **GraphHub**（GitHub 关注关系可视化工具）与 **[vscode-view-charset](https://marketplace.visualstudio.com/items?itemName=long-kudo.vscode-view-charset)**（VSCode 插件）
-- ✍️ 在 [Zenn](https://zenn.dev/long910) 和博客 [910.jp](https://910.jp/) 发布技术文章
-- 🦀 探索 **Rust** 及开源贡献
-- ⚡ 同时热衷于算法竞赛（C/C++）和 Chrome 扩展开发
+```txt
+[    0.000000] Booting long-910-automotive-system v2.6.0
+[    0.001245] CPU: Arm Cortex-A78AE / x86_64 (Multi-Arch Support)
+[    0.005832] Initializing Heterogeneous Computing Platform...
+[    0.104921]  - [  OK  ] NVIDIA DRIVE Orin (Ampere GPU / Deep Learning Accelerator)
+[    0.218440]  - [  OK  ] Renesas R-Car (Automotive Grade SoC)
+[    0.342991]  - [  OK  ] Toshiba Visconti (Image Recognition Engine)
+[    0.482012] Detected OS: Real-Time Operating System (RTOS)
+[    0.550103] ASIL-D Safety Integrity Level: Initialized
+[    0.620934] Starting Automotive Communication Services...
+[    0.730219]  - [  OK  ] CAN-FD / Automotive Ethernet Stack
+[    0.850442]  - [  OK  ] Sensor Fusion Engine (LiDAR/Radar/Camera)
+[    1.102938] Starting Application Services...
+[    1.240291]  - Launching: GraphHub Logic [ RUNNING ]
+[    1.360123]  - Loading: Rust-based Safety Modules [ SUCCESS ]
+[    1.890332] System Status: Ready (Real-time constraints met)
+
+long-910 login: long-910
+Password: ************
+Last login: Tue Mar  3 21:55:40 on ttyS0
+
+Welcome to long-910's Profile!
+------------------------------------------------------------
+* Expertise: Automotive Embedded / ADAS / Autonomous Driving
+* Hardware:  NVIDIA Orin, Renesas R-Car, Toshiba Visconti
+* CPU/Arch:  Arm, x86, RTOS
+* Languages: Rust, C++, TypeScript
+------------------------------------------------------------
+
+long-910@automotive:~$ ls -F ./workspace
+ContextSwitch/  GraphHub/  Zenn-Articles/  Embedded-Rust-Tools/
+
+long-910@automotive:~$ _
+```
 
 <br>
 

@@ -29,12 +29,42 @@
 
 ---
 
-### 🙋 About Me
+### 🖥️ About Me
 
-- 🔭 Building **GraphHub** (GitHub follow-graph visualizer) & **[vscode-view-charset](https://marketplace.visualstudio.com/items?itemName=long-kudo.vscode-view-charset)** (VSCode extension)
-- ✍️ Writing tech articles on [Zenn](https://zenn.dev/long910) and my blog [910.jp](https://910.jp/)
-- 🦀 Exploring **Rust** and contributing to open source
-- ⚡ Also into competitive programming (C/C++) and Chrome extension development
+```txt
+[    0.000000] Booting long-910-automotive-system v2.6.0
+[    0.001245] CPU: Arm Cortex-A78AE / x86_64 (Multi-Arch Support)
+[    0.005832] Initializing Heterogeneous Computing Platform...
+[    0.104921]  - [  OK  ] NVIDIA DRIVE Orin (Ampere GPU / Deep Learning Accelerator)
+[    0.218440]  - [  OK  ] Renesas R-Car (Automotive Grade SoC)
+[    0.342991]  - [  OK  ] Toshiba Visconti (Image Recognition Engine)
+[    0.482012] Detected OS: Real-Time Operating System (RTOS)
+[    0.550103] ASIL-D Safety Integrity Level: Initialized
+[    0.620934] Starting Automotive Communication Services...
+[    0.730219]  - [  OK  ] CAN-FD / Automotive Ethernet Stack
+[    0.850442]  - [  OK  ] Sensor Fusion Engine (LiDAR/Radar/Camera)
+[    1.102938] Starting Application Services...
+[    1.240291]  - Launching: GraphHub Logic [ RUNNING ]
+[    1.360123]  - Loading: Rust-based Safety Modules [ SUCCESS ]
+[    1.890332] System Status: Ready (Real-time constraints met)
+
+long-910 login: long-910
+Password: ************
+Last login: Tue Mar  3 21:55:40 on ttyS0
+
+Welcome to long-910's Profile!
+------------------------------------------------------------
+* Expertise: Automotive Embedded / ADAS / Autonomous Driving
+* Hardware:  NVIDIA Orin, Renesas R-Car, Toshiba Visconti
+* CPU/Arch:  Arm, x86, RTOS
+* Languages: Rust, C++, TypeScript
+------------------------------------------------------------
+
+long-910@automotive:~$ ls -F ./workspace
+ContextSwitch/  GraphHub/  Zenn-Articles/  Embedded-Rust-Tools/
+
+long-910@automotive:~$ _
+```
 
 <br>
 
