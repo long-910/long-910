@@ -30,13 +30,16 @@
 
 <div align="center">
 
-[![Blog](https://img.shields.io/badge/Blog-910.jp-0A0A0A?style=for-the-badge&logo=jekyll&logoColor=white)](https://910.jp/)
-[![Zenn](https://img.shields.io/badge/Zenn-long910-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white)](https://zenn.dev/long910)
-[![VS Marketplace](https://img.shields.io/badge/VS%20Marketplace-long--kudo-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://marketplace.visualstudio.com/publishers/long-kudo)
-
+[![Zenn](https://img.shields.io/badge/Zenn-long910-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white&labelColor=3EA8FF)](https://zenn.dev/long910)
 [![Zenn Articles](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fzenn.dev%2Fapi%2Fusers%2Flong910&query=%24.user.articles_count&label=Articles&color=3EA8FF&logo=zenn&logoColor=white&style=for-the-badge)](https://zenn.dev/long910)
 [![Zenn Followers](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fzenn.dev%2Fapi%2Fusers%2Flong910&query=%24.user.followers_count&label=Followers&color=3EA8FF&logo=zenn&logoColor=white&style=for-the-badge)](https://zenn.dev/long910)
 [![Zenn Likes](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fzenn.dev%2Fapi%2Fusers%2Flong910&query=%24.user.liked_count&label=Likes&color=3EA8FF&logo=zenn&logoColor=white&style=for-the-badge)](https://zenn.dev/long910)
+
+[![GitHub](https://img.shields.io/badge/GitHub-long--910-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/long-910)
+[![GitHub Followers](https://img.shields.io/github/followers/long-910?label=Followers&logo=github&style=for-the-badge&color=181717&logoColor=white)](https://github.com/long-910)
+
+[![Blog](https://img.shields.io/badge/Blog-910.jp-0A0A0A?style=for-the-badge&logo=jekyll&logoColor=white)](https://910.jp/)
+[![VS Marketplace](https://img.shields.io/badge/VS%20Marketplace-long--kudo-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://marketplace.visualstudio.com/publishers/long-kudo)
 
 </div>
 
