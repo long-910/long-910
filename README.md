@@ -158,6 +158,15 @@ long-910@automotive:~$ _
 ### ⏱️ Coding Activity
 
 <!--START_SECTION:waka-->
+
+```txt
+Markdown     3 hrs 46 mins         ██████████████▓░░░░░░░░░░   58.65 %
+YAML         51 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.22 %
+JSON         37 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.73 %
+Bash         36 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.40 %
+HTML         17 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
+```
+
 <!--END_SECTION:waka-->
 
 
