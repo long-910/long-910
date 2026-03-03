@@ -55,6 +55,13 @@
 
 ---
 
+### 📝 最新博客文章
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
 ### 🛠️ 技术栈
 
 <div align="center">

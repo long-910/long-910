@@ -55,6 +55,13 @@
 
 ---
 
+### 📝 最新のブログ記事
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
 ### 🛠️ テックスタック
 
 <div align="center">

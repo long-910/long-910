@@ -7,6 +7,7 @@
 [![GitHub-Profile-Summary-Cards](https://github.com/long-910/long-910/actions/workflows/profile-summary-cards.yml/badge.svg)](https://github.com/long-910/long-910/actions/workflows/profile-summary-cards.yml)
 [![Waka Readme](https://github.com/long-910/long-910/actions/workflows/waka-readme.yml/badge.svg)](https://github.com/long-910/long-910/actions/workflows/waka-readme.yml)
 [![Generate Snake](https://github.com/long-910/long-910/actions/workflows/snake.yml/badge.svg)](https://github.com/long-910/long-910/actions/workflows/snake.yml)
+[![Zenn Blog Posts](https://github.com/long-910/long-910/actions/workflows/zenn-blog-post.yml/badge.svg)](https://github.com/long-910/long-910/actions/workflows/zenn-blog-post.yml)
 
 </div>
 
@@ -61,6 +62,13 @@
 [![vscode-view-charset](https://github-readme-stats.vercel.app/api/pin/?username=long-910&repo=vscode-view-charset&theme=monokai&hide_border=true)](https://github.com/long-910/vscode-view-charset)
 
 </div>
+
+---
+
+### 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
