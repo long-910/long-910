@@ -118,6 +118,13 @@
 
 ---
 
+### ⚡ 近期动态
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
 ### ⏱️ 编码活动
 
 ```txt

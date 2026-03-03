@@ -8,6 +8,7 @@
 [![Waka Readme](https://github.com/long-910/long-910/actions/workflows/waka-readme.yml/badge.svg)](https://github.com/long-910/long-910/actions/workflows/waka-readme.yml)
 [![Generate Snake](https://github.com/long-910/long-910/actions/workflows/snake.yml/badge.svg)](https://github.com/long-910/long-910/actions/workflows/snake.yml)
 [![Zenn Blog Posts](https://github.com/long-910/long-910/actions/workflows/zenn-blog-post.yml/badge.svg)](https://github.com/long-910/long-910/actions/workflows/zenn-blog-post.yml)
+[![Recent Activity](https://github.com/long-910/long-910/actions/workflows/recent-activity.yml/badge.svg)](https://github.com/long-910/long-910/actions/workflows/recent-activity.yml)
 
 </div>
 
@@ -125,6 +126,13 @@
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=long-910&bg_color=272822&color=f8f8f2&line=ae81ff&point=a6e22e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
+
+---
+
+### ⚡ Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
 
