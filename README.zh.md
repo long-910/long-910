@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=long-910&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=%E5%85%A8%E6%A0%88%E5%BC%80%E5%8F%91%E8%80%85%20%7C%20%E5%BC%80%E6%BA%90%E7%88%B1%E5%A5%BD%E8%80%85&descAlignY=62&descSize=20&descColor=cdd9e5" width="100%" />
 
-<p align="right"><a href="./README.md">English</a> &nbsp;|&nbsp; <a href="./README.ja.md">日本語</a> &nbsp;|&nbsp; 🌐 中文</p>
+<p align="right"><a href="./README.md">🇺🇸 English</a> &nbsp;|&nbsp; <a href="./README.ja.md">🇯🇵 日本語</a> &nbsp;|&nbsp; 🇨🇳 中文</p>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=600&size=18&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=%E4%BD%BF%E7%94%A8+Next.js+%26+TypeScript+%E5%BC%80%E5%8F%91+Web+%E5%BA%94%E7%94%A8;%E5%BC%80%E5%8F%91+VSCode+%26+Chrome+%E6%89%A9%E5%B1%95%E6%8F%92%E4%BB%B6;%E5%9C%A8+Zenn+%E5%8F%91%E5%B8%83%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0+%E2%9C%8D%EF%B8%8F;%E6%8E%A2%E7%B4%A2+Rust+%E4%B8%8E%E5%BC%80%E6%BA%90%E4%B8%96%E7%95%8C+%F0%9F%A6%80" alt="Typing SVG" />
@@ -44,6 +44,17 @@
 
 ---
 
+### 🚀 精选项目
+
+<div align="center">
+
+[![GraphHub](https://github-readme-stats.vercel.app/api/pin/?username=long-910&repo=GraphHub&theme=monokai&hide_border=true)](https://github.com/long-910/GraphHub)
+[![vscode-view-charset](https://github-readme-stats.vercel.app/api/pin/?username=long-910&repo=vscode-view-charset&theme=monokai&hide_border=true)](https://github.com/long-910/vscode-view-charset)
+
+</div>
+
+---
+
 ### 🛠️ 技术栈
 
 <div align="center">
@@ -56,11 +67,17 @@
 
 ### 📊 GitHub 统计
 
+<div align="center">
+
 [![](https://raw.githubusercontent.com/long-910/long-910/main/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 [![](https://raw.githubusercontent.com/long-910/long-910/main/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)[![](https://raw.githubusercontent.com/long-910/long-910/main/profile-summary-card-output/monokai/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 [![](https://raw.githubusercontent.com/long-910/long-910/main/profile-summary-card-output/monokai/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)[![](https://raw.githubusercontent.com/long-910/long-910/main/profile-summary-card-output/monokai/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=long-910&theme=monokai&hide_border=true)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
@@ -81,6 +98,16 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/long-910/long-910/output/github-contribution-grid-snake.svg" />
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/long-910/long-910/output/github-contribution-grid-snake.svg" />
 </picture>
+
+---
+
+### 📈 活动图
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=long-910&bg_color=272822&color=f8f8f2&line=ae81ff&point=a6e22e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
 
 ---
 

@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=long-910&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=%E3%83%95%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%83%E3%82%AF%E9%96%8B%E7%99%BA%E8%80%85%20%7C%20%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9%E6%84%9B%E5%A5%BD%E5%AE%B6&descAlignY=62&descSize=20&descColor=cdd9e5" width="100%" />
 
-<p align="right"><a href="./README.md">English</a> &nbsp;|&nbsp; 🌐 日本語 &nbsp;|&nbsp; <a href="./README.zh.md">中文</a></p>
+<p align="right"><a href="./README.md">🇺🇸 English</a> &nbsp;|&nbsp; 🇯🇵 日本語 &nbsp;|&nbsp; <a href="./README.zh.md">🇨🇳 中文</a></p>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+JP&weight=600&size=18&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Next.js+%26+TypeScript+%E3%81%A7+Web+%E3%82%A2%E3%83%97%E3%83%AA%E3%82%92%E9%96%8B%E7%99%BA%E4%B8%AD;VSCode+%26+Chrome+%E6%8B%A1%E5%BC%B5%E6%A9%9F%E8%83%BD%E3%82%92%E5%88%B6%E4%BD%9C;Zenn+%E3%81%A7%E6%8A%80%E8%A1%93%E8%A8%98%E4%BA%8B%E3%82%92%E5%9F%B7%E7%AD%86%E4%B8%AD+%E2%9C%8D%EF%B8%8F;Rust+%E3%81%A8%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%92%E6%8E%A2%E6%B1%82%E4%B8%AD+%F0%9F%A6%80" alt="Typing SVG" />
@@ -44,6 +44,17 @@
 
 ---
 
+### 🚀 注目プロジェクト
+
+<div align="center">
+
+[![GraphHub](https://github-readme-stats.vercel.app/api/pin/?username=long-910&repo=GraphHub&theme=monokai&hide_border=true)](https://github.com/long-910/GraphHub)
+[![vscode-view-charset](https://github-readme-stats.vercel.app/api/pin/?username=long-910&repo=vscode-view-charset&theme=monokai&hide_border=true)](https://github.com/long-910/vscode-view-charset)
+
+</div>
+
+---
+
 ### 🛠️ テックスタック
 
 <div align="center">
@@ -56,11 +67,17 @@
 
 ### 📊 GitHub 統計
 
+<div align="center">
+
 [![](https://raw.githubusercontent.com/long-910/long-910/main/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 [![](https://raw.githubusercontent.com/long-910/long-910/main/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)[![](https://raw.githubusercontent.com/long-910/long-910/main/profile-summary-card-output/monokai/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 [![](https://raw.githubusercontent.com/long-910/long-910/main/profile-summary-card-output/monokai/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)[![](https://raw.githubusercontent.com/long-910/long-910/main/profile-summary-card-output/monokai/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=long-910&theme=monokai&hide_border=true)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
@@ -81,6 +98,16 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/long-910/long-910/output/github-contribution-grid-snake.svg" />
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/long-910/long-910/output/github-contribution-grid-snake.svg" />
 </picture>
+
+---
+
+### 📈 アクティビティグラフ
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=long-910&bg_color=272822&color=f8f8f2&line=ae81ff&point=a6e22e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
 
 ---
 

@@ -1,6 +1,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=long-910&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20Open%20Source%20Enthusiast&descAlignY=62&descSize=20&descColor=cdd9e5" width="100%" />
 
-<p align="right">🌐 English &nbsp;|&nbsp; <a href="./README.ja.md">日本語</a> &nbsp;|&nbsp; <a href="./README.zh.md">中文</a></p>
+<p align="right">🇺🇸 English &nbsp;|&nbsp; <a href="./README.ja.md">🇯🇵 日本語</a> &nbsp;|&nbsp; <a href="./README.zh.md">🇨🇳 中文</a></p>
+
+<div align="right">
+
+[![GitHub-Profile-Summary-Cards](https://github.com/long-910/long-910/actions/workflows/profile-summary-cards.yml/badge.svg)](https://github.com/long-910/long-910/actions/workflows/profile-summary-cards.yml)
+[![Waka Readme](https://github.com/long-910/long-910/actions/workflows/waka-readme.yml/badge.svg)](https://github.com/long-910/long-910/actions/workflows/waka-readme.yml)
+[![Generate Snake](https://github.com/long-910/long-910/actions/workflows/snake.yml/badge.svg)](https://github.com/long-910/long-910/actions/workflows/snake.yml)
+
+</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+web+apps+with+Next.js+%26+TypeScript;Creating+VSCode+%26+Chrome+Extensions;Writing+tech+articles+on+Zenn+%E2%9C%8D%EF%B8%8F;Exploring+Rust+and+Open+Source+%F0%9F%A6%80" alt="Typing SVG" />
@@ -45,6 +53,17 @@
 
 ---
 
+### 🚀 Featured Projects
+
+<div align="center">
+
+[![GraphHub](https://github-readme-stats.vercel.app/api/pin/?username=long-910&repo=GraphHub&theme=monokai&hide_border=true)](https://github.com/long-910/GraphHub)
+[![vscode-view-charset](https://github-readme-stats.vercel.app/api/pin/?username=long-910&repo=vscode-view-charset&theme=monokai&hide_border=true)](https://github.com/long-910/vscode-view-charset)
+
+</div>
+
+---
+
 ### 🛠️ Tech Stack
 
 <div align="center">
@@ -57,11 +76,17 @@
 
 ### 📊 GitHub Stats
 
+<div align="center">
+
 [![](https://raw.githubusercontent.com/long-910/long-910/main/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 [![](https://raw.githubusercontent.com/long-910/long-910/main/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)[![](https://raw.githubusercontent.com/long-910/long-910/main/profile-summary-card-output/monokai/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 [![](https://raw.githubusercontent.com/long-910/long-910/main/profile-summary-card-output/monokai/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)[![](https://raw.githubusercontent.com/long-910/long-910/main/profile-summary-card-output/monokai/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=long-910&theme=monokai&hide_border=true)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
@@ -85,6 +110,16 @@
 
 ---
 
+### 📈 Activity Graph
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=long-910&bg_color=272822&color=f8f8f2&line=ae81ff&point=a6e22e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
 ### ⏱️ Coding Activity
 
 <!--START_SECTION:waka-->
@@ -100,11 +135,3 @@ HTML         17 mins               █░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,11,6&height=120&section=footer" width="100%" />
-
-<div align="right">
-
-[![GitHub-Profile-Summary-Cards](https://github.com/long-910/long-910/actions/workflows/profile-summary-cards.yml/badge.svg)](https://github.com/long-910/long-910/actions/workflows/profile-summary-cards.yml)
-[![Waka Readme](https://github.com/long-910/long-910/actions/workflows/waka-readme.yml/badge.svg)](https://github.com/long-910/long-910/actions/workflows/waka-readme.yml)
-[![Generate Snake](https://github.com/long-910/long-910/actions/workflows/snake.yml/badge.svg)](https://github.com/long-910/long-910/actions/workflows/snake.yml)
-
-</div>
