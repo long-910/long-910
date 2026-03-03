@@ -33,6 +33,10 @@
 [![Zenn](https://img.shields.io/badge/Zenn-long910-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white)](https://zenn.dev/long910)
 [![VS Marketplace](https://img.shields.io/badge/VS%20Marketplace-long--kudo-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://marketplace.visualstudio.com/publishers/long-kudo)
 
+[![Zenn 文章数](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fzenn.dev%2Fapi%2Fusers%2Flong910&query=%24.user.articles_count&label=%E6%96%87%E7%AB%A0%E6%95%B0&color=3EA8FF&logo=zenn&logoColor=white&style=for-the-badge)](https://zenn.dev/long910)
+[![Zenn 粉丝数](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fzenn.dev%2Fapi%2Fusers%2Flong910&query=%24.user.followers_count&label=%E7%B2%89%E4%B8%9D%E6%95%B0&color=3EA8FF&logo=zenn&logoColor=white&style=for-the-badge)](https://zenn.dev/long910)
+[![Zenn 点赞数](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fzenn.dev%2Fapi%2Fusers%2Flong910&query=%24.user.liked_count&label=%E7%82%B9%E8%B5%9E%E6%95%B0&color=3EA8FF&logo=zenn&logoColor=white&style=for-the-badge)](https://zenn.dev/long910)
+
 </div>
 
 ---
@@ -54,6 +58,16 @@
 [![](https://raw.githubusercontent.com/long-910/long-910/main/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)[![](https://raw.githubusercontent.com/long-910/long-910/main/profile-summary-card-output/monokai/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 [![](https://raw.githubusercontent.com/long-910/long-910/main/profile-summary-card-output/monokai/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)[![](https://raw.githubusercontent.com/long-910/long-910/main/profile-summary-card-output/monokai/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+---
+
+### 🏆 GitHub 奖杯
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=long-910&theme=monokai&no-frame=true&column=7&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ---
 
