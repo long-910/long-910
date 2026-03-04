@@ -86,6 +86,8 @@ long-910@automotive:~$ _
 [![Claude Code](https://img.shields.io/badge/Claude_Code-CC785C?style=flat-square&logo=anthropic&logoColor=white)](https://claude.ai/code)
 [![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)](https://gemini.google.com/)
 [![MCP](https://img.shields.io/badge/MCP-FF6B35?style=flat-square&logo=anthropic&logoColor=white)](https://modelcontextprotocol.io/)
+[![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)](https://cursor.sh/)
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=flat-square&logo=openai&logoColor=white)](https://chat.openai.com/)
 
 </div>
 
@@ -135,6 +137,16 @@ long-910@automotive:~$ _
 ### ⚡ 近期动态
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#2](https://github.com/long-910/long-910/pull/2) in [long-910/long-910](https://github.com/long-910/long-910)
+2. 💪 Opened PR [#2](https://github.com/long-910/long-910/pull/2) in [long-910/long-910](https://github.com/long-910/long-910)
+3. 🎉 Merged PR [#14](https://github.com/long-910/zenn_dev/pull/14) in [long-910/zenn_dev](https://github.com/long-910/zenn_dev)
+4. 💪 Opened PR [#14](https://github.com/long-910/zenn_dev/pull/14) in [long-910/zenn_dev](https://github.com/long-910/zenn_dev)
+5. 🎉 Merged PR [#21](https://github.com/long-910/dotfiles/pull/21) in [long-910/dotfiles](https://github.com/long-910/dotfiles)
+6. 💪 Opened PR [#21](https://github.com/long-910/dotfiles/pull/21) in [long-910/dotfiles](https://github.com/long-910/dotfiles)
+7. 🎉 Merged PR [#20](https://github.com/long-910/dotfiles/pull/20) in [long-910/dotfiles](https://github.com/long-910/dotfiles)
+8. 🎉 Merged PR [#6](https://github.com/long-910/claude-tmux-status/pull/6) in [long-910/claude-tmux-status](https://github.com/long-910/claude-tmux-status)
+9. 💪 Opened PR [#20](https://github.com/long-910/dotfiles/pull/20) in [long-910/dotfiles](https://github.com/long-910/dotfiles)
+10. 💪 Opened PR [#6](https://github.com/long-910/claude-tmux-status/pull/6) in [long-910/claude-tmux-status](https://github.com/long-910/claude-tmux-status)
 <!--END_SECTION:activity-->
 
 ---
@@ -154,6 +166,15 @@ long-910@automotive:~$ _
 ### ⏱️ 编码活动
 
 <!--START_SECTION:waka-->
+
+```txt
+Markdown     4 hrs 27 mins         ███████████████▓░░░░░░░░░   62.57 %
+YAML         51 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.97 %
+JSON         37 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   08.80 %
+Bash         36 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 %
+HTML         17 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
+```
+
 <!--END_SECTION:waka-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,11,6&height=120&section=footer" width="100%" />
