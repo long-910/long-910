@@ -20,7 +20,7 @@ jobs:
         with:
           COMMIT_MSG: "Update README with recent activity"
           MAX_LINES: 10
-          README_FILE: "README.md"
+          TARGET_FILE: "README.md"
 
   update-ja:
     name: Update Japanese README
@@ -37,7 +37,7 @@ jobs:
         with:
           COMMIT_MSG: "Update README.ja.md with recent activity"
           MAX_LINES: 10
-          README_FILE: "README.ja.md"
+          TARGET_FILE: "README.ja.md"
 
   update-zh:
     name: Update Chinese README
@@ -54,4 +54,4 @@ jobs:
         with:
           COMMIT_MSG: "Update README.zh.md with recent activity"
           MAX_LINES: 10
-          README_FILE: "README.zh.md"
+          TARGET_FILE: "README.zh.md"
