@@ -11,6 +11,8 @@ jobs:
   update-readme-en:
     name: WakaReadme English
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: athul/waka-readme@master
         with:
@@ -21,6 +23,8 @@ jobs:
     name: WakaReadme Japanese
     needs: update-readme-en
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: athul/waka-readme@master
         with:
@@ -31,6 +35,8 @@ jobs:
     name: WakaReadme Chinese
     needs: update-readme-ja
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: athul/waka-readme@master
         with:

@@ -9,6 +9,8 @@ jobs:
   update-en:
     name: Update English README
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
 
@@ -24,6 +26,8 @@ jobs:
     name: Update Japanese README
     needs: update-en
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
 
@@ -39,6 +43,8 @@ jobs:
     name: Update Chinese README
     needs: update-ja
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
 
