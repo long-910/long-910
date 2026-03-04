@@ -13,8 +13,8 @@
 [![Sponsor](https://img.shields.io/badge/Sponsor-GitHub-ea4aaa?style=flat-square&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/long-910)
 
 [![Zenn 記事数](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fzenn.dev%2Fapi%2Fusers%2Flong910&query=%24.user.articles_count&label=%E8%A8%98%E4%BA%8B%E6%95%B0&color=3EA8FF&logo=zenn&logoColor=white&style=flat-square)](https://zenn.dev/long910)
-[![Zenn フォロワー数](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fzenn.dev%2Fapi%2Fusers%2Flong910&query=%24.user.followers_count&label=%E3%83%95%E3%82%A9%E3%83%AD%E3%83%AF%E3%83%BC%E6%95%B0&color=3EA8FF&logo=zenn&logoColor=white&style=flat-square)](https://zenn.dev/long910)
-[![Zenn いいね数](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fzenn.dev%2Fapi%2Fusers%2Flong910&query=%24.user.liked_count&label=%E3%81%84%E3%81%84%E3%81%AD%E6%95%B0&color=3EA8FF&logo=zenn&logoColor=white&style=flat-square)](https://zenn.dev/long910)
+[![Zenn フォロワー数](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fzenn.dev%2Fapi%2Fusers%2Flong910&query=%24.user.follower_count&label=%E3%83%95%E3%82%A9%E3%83%AD%E3%83%AF%E3%83%BC%E6%95%B0&color=3EA8FF&logo=zenn&logoColor=white&style=flat-square)](https://zenn.dev/long910)
+[![Zenn いいね数](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fzenn.dev%2Fapi%2Fusers%2Flong910&query=%24.user.total_liked_count&label=%E3%81%84%E3%81%84%E3%81%AD%E6%95%B0&color=3EA8FF&logo=zenn&logoColor=white&style=flat-square)](https://zenn.dev/long910)
 
 [![WakaTime](https://wakatime.com/badge/user/018d17c5-99c7-44b8-81d4-6c1cc14c1a15.svg?style=flat-square)](https://wakatime.com/@018d17c5-99c7-44b8-81d4-6c1cc14c1a15)
 [![ブログ](https://img.shields.io/badge/ブログ-910.jp-3EA8FF?style=flat-square&logo=jekyll&logoColor=white)](https://910.jp/)
@@ -79,6 +79,13 @@ long-910@automotive:~$ _
 <div align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=ts,js,py,rust,c,nextjs,react,tailwind,nodejs,docker,git,linux,mysql,vscode&perline=7&theme=dark)](https://skillicons.dev)
+
+**🤖 AI ツール:**
+
+[![Claude](https://img.shields.io/badge/Claude-CC785C?style=flat-square&logo=anthropic&logoColor=white)](https://claude.ai/)
+[![Claude Code](https://img.shields.io/badge/Claude_Code-CC785C?style=flat-square&logo=anthropic&logoColor=white)](https://claude.ai/code)
+[![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)](https://gemini.google.com/)
+[![MCP](https://img.shields.io/badge/MCP-FF6B35?style=flat-square&logo=anthropic&logoColor=white)](https://modelcontextprotocol.io/)
 
 </div>
 
