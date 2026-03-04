@@ -6,14 +6,13 @@ on:
   workflow_dispatch:
 
 jobs:
-  update-readme:
-    name: Update README with recent GitHub activity
+  update-en:
+    name: Update English README
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
 
-      - name: Update English README
-        uses: jamesgeorge007/github-activity-readme@master
+      - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
@@ -21,8 +20,14 @@ jobs:
           MAX_LINES: 10
           README_FILE: "README.md"
 
-      - name: Update Japanese README
-        uses: jamesgeorge007/github-activity-readme@master
+  update-ja:
+    name: Update Japanese README
+    needs: update-en
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
@@ -30,8 +35,14 @@ jobs:
           MAX_LINES: 10
           README_FILE: "README.ja.md"
 
-      - name: Update Chinese README
-        uses: jamesgeorge007/github-activity-readme@master
+  update-zh:
+    name: Update Chinese README
+    needs: update-ja
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:

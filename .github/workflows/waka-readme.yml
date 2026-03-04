@@ -8,10 +8,31 @@ on:
     - cron: "0 0 * * *"
 
 jobs:
-  update-readme:
-    name: WakaReadme DevMetrics
+  update-readme-en:
+    name: WakaReadme English
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master # this action name
+      - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          README_FILE: README.md
+
+  update-readme-ja:
+    name: WakaReadme Japanese
+    needs: update-readme-en
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          README_FILE: README.ja.md
+
+  update-readme-zh:
+    name: WakaReadme Chinese
+    needs: update-readme-ja
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          README_FILE: README.zh.md
