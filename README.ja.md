@@ -129,16 +129,16 @@ long-910@automotive:~$ _
 ### ⚡ 最近のアクティビティ
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#17](https://github.com/long-910/vscode-claude-status/pull/17) in [long-910/vscode-claude-status](https://github.com/long-910/vscode-claude-status)
-2. 🎉 Merged PR [#16](https://github.com/long-910/vscode-claude-status/pull/16) in [long-910/vscode-claude-status](https://github.com/long-910/vscode-claude-status)
-3. 💪 Opened PR [#17](https://github.com/long-910/vscode-claude-status/pull/17) in [long-910/vscode-claude-status](https://github.com/long-910/vscode-claude-status)
-4. 💪 Opened PR [#8](https://github.com/long-910/claude-tmux-status/pull/8) in [long-910/claude-tmux-status](https://github.com/long-910/claude-tmux-status)
-5. 💪 Opened PR [#16](https://github.com/long-910/vscode-claude-status/pull/16) in [long-910/vscode-claude-status](https://github.com/long-910/vscode-claude-status)
-6. 🎉 Merged PR [#17](https://github.com/long-910/zenn_dev/pull/17) in [long-910/zenn_dev](https://github.com/long-910/zenn_dev)
-7. 💪 Opened PR [#17](https://github.com/long-910/zenn_dev/pull/17) in [long-910/zenn_dev](https://github.com/long-910/zenn_dev)
-8. 🎉 Merged PR [#9](https://github.com/long-910/long-910/pull/9) in [long-910/long-910](https://github.com/long-910/long-910)
-9. 💪 Opened PR [#9](https://github.com/long-910/long-910/pull/9) in [long-910/long-910](https://github.com/long-910/long-910)
-10. 🎉 Merged PR [#16](https://github.com/long-910/zenn_dev/pull/16) in [long-910/zenn_dev](https://github.com/long-910/zenn_dev)
+1. 💪 Opened PR [#18](https://github.com/long-910/vscode-claude-status/pull/18) in [long-910/vscode-claude-status](https://github.com/long-910/vscode-claude-status)
+2. 💪 Opened PR [#9](https://github.com/long-910/claude-tmux-status/pull/9) in [long-910/claude-tmux-status](https://github.com/long-910/claude-tmux-status)
+3. 🎉 Merged PR [#8](https://github.com/long-910/claude-tmux-status/pull/8) in [long-910/claude-tmux-status](https://github.com/long-910/claude-tmux-status)
+4. 🎉 Merged PR [#9](https://github.com/long-910/BinSleuth/pull/9) in [long-910/BinSleuth](https://github.com/long-910/BinSleuth)
+5. 💪 Opened PR [#9](https://github.com/long-910/BinSleuth/pull/9) in [long-910/BinSleuth](https://github.com/long-910/BinSleuth)
+6. 🎉 Merged PR [#8](https://github.com/long-910/BinSleuth/pull/8) in [long-910/BinSleuth](https://github.com/long-910/BinSleuth)
+7. 💪 Opened PR [#8](https://github.com/long-910/BinSleuth/pull/8) in [long-910/BinSleuth](https://github.com/long-910/BinSleuth)
+8. 🎉 Merged PR [#17](https://github.com/long-910/vscode-claude-status/pull/17) in [long-910/vscode-claude-status](https://github.com/long-910/vscode-claude-status)
+9. 🎉 Merged PR [#16](https://github.com/long-910/vscode-claude-status/pull/16) in [long-910/vscode-claude-status](https://github.com/long-910/vscode-claude-status)
+10. 💪 Opened PR [#17](https://github.com/long-910/vscode-claude-status/pull/17) in [long-910/vscode-claude-status](https://github.com/long-910/vscode-claude-status)
 <!--END_SECTION:activity-->
 
 ---
