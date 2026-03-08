@@ -130,16 +130,16 @@ long-910@automotive:~$ _
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7](https://github.com/long-910/long-910/pull/7) in [long-910/long-910](https://github.com/long-910/long-910)
-2. 🎉 Merged PR [#22](https://github.com/long-910/dotfiles/pull/22) in [long-910/dotfiles](https://github.com/long-910/dotfiles)
-3. 💪 Opened PR [#22](https://github.com/long-910/dotfiles/pull/22) in [long-910/dotfiles](https://github.com/long-910/dotfiles)
-4. 🎉 Merged PR [#7](https://github.com/long-910/BinSleuth/pull/7) in [long-910/BinSleuth](https://github.com/long-910/BinSleuth)
-5. 💪 Opened PR [#7](https://github.com/long-910/BinSleuth/pull/7) in [long-910/BinSleuth](https://github.com/long-910/BinSleuth)
-6. 🎉 Merged PR [#6](https://github.com/long-910/BinSleuth/pull/6) in [long-910/BinSleuth](https://github.com/long-910/BinSleuth)
-7. 💪 Opened PR [#6](https://github.com/long-910/BinSleuth/pull/6) in [long-910/BinSleuth](https://github.com/long-910/BinSleuth)
-8. 🎉 Merged PR [#1](https://github.com/long-910/BinSleuth/pull/1) in [long-910/BinSleuth](https://github.com/long-910/BinSleuth)
-9. 💪 Opened PR [#6](https://github.com/long-910/long-910/pull/6) in [long-910/long-910](https://github.com/long-910/long-910)
-10. 💪 Opened PR [#1](https://github.com/long-910/BinSleuth/pull/1) in [long-910/BinSleuth](https://github.com/long-910/BinSleuth)
+1. 💪 Opened PR [#16](https://github.com/long-910/zenn_dev/pull/16) in [long-910/zenn_dev](https://github.com/long-910/zenn_dev)
+2. 🎉 Merged PR [#8](https://github.com/long-910/long-910/pull/8) in [long-910/long-910](https://github.com/long-910/long-910)
+3. ❌ Closed PR [#6](https://github.com/long-910/long-910/pull/6) in [long-910/long-910](https://github.com/long-910/long-910)
+4. 💪 Opened PR [#8](https://github.com/long-910/long-910/pull/8) in [long-910/long-910](https://github.com/long-910/long-910)
+5. 🎉 Merged PR [#7](https://github.com/long-910/long-910/pull/7) in [long-910/long-910](https://github.com/long-910/long-910)
+6. 💪 Opened PR [#7](https://github.com/long-910/long-910/pull/7) in [long-910/long-910](https://github.com/long-910/long-910)
+7. 🎉 Merged PR [#22](https://github.com/long-910/dotfiles/pull/22) in [long-910/dotfiles](https://github.com/long-910/dotfiles)
+8. 💪 Opened PR [#22](https://github.com/long-910/dotfiles/pull/22) in [long-910/dotfiles](https://github.com/long-910/dotfiles)
+9. 🎉 Merged PR [#7](https://github.com/long-910/BinSleuth/pull/7) in [long-910/BinSleuth](https://github.com/long-910/BinSleuth)
+10. 💪 Opened PR [#7](https://github.com/long-910/BinSleuth/pull/7) in [long-910/BinSleuth](https://github.com/long-910/BinSleuth)
 <!--END_SECTION:activity-->
 
 ---
