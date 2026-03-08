@@ -8,26 +8,29 @@
 
 <div align="center">
 
+**🐙 GitHub**
+
 [![Profile Views](https://komarev.com/ghpvc/?username=long-910&style=flat-square&color=58a6ff&label=Profile+Views)](https://github.com/long-910/long-910/)
 [![GitHub Followers](https://img.shields.io/github/followers/long-910?label=Followers&logo=github&style=flat-square&color=58a6ff&logoColor=white)](https://github.com/long-910)
 [![Sponsor](https://img.shields.io/badge/Sponsor-GitHub-ea4aaa?style=flat-square&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/long-910)
+
+**📝 Zenn**
 
 [![Zenn Articles](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fzenn.dev%2Fapi%2Fusers%2Flong910&query=%24.user.articles_count&label=Articles&color=3EA8FF&logo=zenn&logoColor=white&style=flat-square)](https://zenn.dev/long910)
 [![Zenn Followers](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fzenn.dev%2Fapi%2Fusers%2Flong910&query=%24.user.follower_count&label=Followers&color=3EA8FF&logo=zenn&logoColor=white&style=flat-square)](https://zenn.dev/long910)
 [![Zenn Likes](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fzenn.dev%2Fapi%2Fusers%2Flong910&query=%24.user.total_liked_count&label=Likes&color=3EA8FF&logo=zenn&logoColor=white&style=flat-square)](https://zenn.dev/long910)
 
+**🔧 Tools & Links**
+
 [![WakaTime](https://wakatime.com/badge/user/018d17c5-99c7-44b8-81d4-6c1cc14c1a15.svg?style=flat-square)](https://wakatime.com/@018d17c5-99c7-44b8-81d4-6c1cc14c1a15)
 [![Blog](https://img.shields.io/badge/Blog-910.jp-3EA8FF?style=flat-square&logo=jekyll&logoColor=white)](https://910.jp/)
 [![VS Marketplace](https://img.shields.io/badge/VS%20Marketplace-long--910-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)](https://marketplace.visualstudio.com/publishers/long-kudo)
 
-</div>
-
-<div align="center">
+**⚙️ GitHub Actions**
 
 [![GitHub-Profile-Summary-Cards](https://github.com/long-910/long-910/actions/workflows/profile-summary-cards.yml/badge.svg)](https://github.com/long-910/long-910/actions/workflows/profile-summary-cards.yml)
 [![Waka Readme](https://github.com/long-910/long-910/actions/workflows/waka-readme.yml/badge.svg)](https://github.com/long-910/long-910/actions/workflows/waka-readme.yml)
 [![Generate Snake](https://github.com/long-910/long-910/actions/workflows/snake.yml/badge.svg)](https://github.com/long-910/long-910/actions/workflows/snake.yml)
-
 [![Zenn Blog Posts](https://github.com/long-910/long-910/actions/workflows/zenn-blog-post.yml/badge.svg)](https://github.com/long-910/long-910/actions/workflows/zenn-blog-post.yml)
 [![Recent Activity](https://github.com/long-910/long-910/actions/workflows/recent-activity.yml/badge.svg)](https://github.com/long-910/long-910/actions/workflows/recent-activity.yml)
 
@@ -89,17 +92,6 @@ long-910@automotive:~$ _
 [![MCP](https://img.shields.io/badge/MCP-FF6B35?style=flat-square&logo=anthropic&logoColor=white)](https://modelcontextprotocol.io/)
 [![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)](https://cursor.sh/)
 [![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=flat-square&logo=openai&logoColor=white)](https://chat.openai.com/)
-
-</div>
-
----
-
-### 🚀 Featured Projects
-
-<div align="center">
-
-[![GraphHub](https://github-readme-stats.vercel.app/api/pin/?username=long-910&repo=GraphHub&theme=monokai&hide_border=true)](https://github.com/long-910/GraphHub)
-[![vscode-view-charset](https://github-readme-stats.vercel.app/api/pin/?username=long-910&repo=vscode-view-charset&theme=monokai&hide_border=true)](https://github.com/long-910/vscode-view-charset)
 
 </div>
 

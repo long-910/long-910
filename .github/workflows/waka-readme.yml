@@ -1,44 +1,73 @@
 name: Waka Readme
 
 on:
-  # for manual workflow trigger
   workflow_dispatch:
   schedule:
-    # runs at 12 AM UTC (5:30 AM IST)
     - cron: "0 0 * * *"
 
 jobs:
-  update-readme-en:
-    name: WakaReadme English
+  update-readmes:
+    name: WakaReadme All READMEs
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
-      - uses: athul/waka-readme@master
+      - uses: actions/checkout@v4
+
+      - name: Update English README
+        uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           README_FILE: README.md
 
-  update-readme-ja:
-    name: WakaReadme Japanese
-    needs: update-readme-en
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: athul/waka-readme@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          README_FILE: README.ja.md
+      - name: Fix bar alignment and sync to JA/ZH READMEs
+        run: |
+          python3 - <<'EOF'
+          import re
 
-  update-readme-zh:
-    name: WakaReadme Chinese
-    needs: update-readme-ja
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: athul/waka-readme@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          README_FILE: README.zh.md
+          MARKER_START = "<!--START_SECTION:waka-->"
+          MARKER_END   = "<!--END_SECTION:waka-->"
+
+          with open("README.md", encoding="utf-8") as f:
+              src = f.read()
+
+          m = re.search(
+              re.escape(MARKER_START) + r"(.*?)" + re.escape(MARKER_END),
+              src, re.DOTALL
+          )
+          if not m:
+              raise SystemExit("Waka section not found in README.md")
+
+          # Fix rendering: replace partial block chars with full/empty
+          # ▓ (U+2593) → █ (U+2588), ▒ (U+2592) → ░ (U+2591)
+          section_body = m.group(1).replace("▓", "█").replace("▒", "░")
+          waka_block = MARKER_START + section_body + MARKER_END
+
+          # Apply fix to README.md as well
+          fixed_src = src[:m.start()] + waka_block + src[m.end():]
+          with open("README.md", "w", encoding="utf-8") as f:
+              f.write(fixed_src)
+          print("Fixed README.md")
+
+          for path in ["README.ja.md", "README.zh.md"]:
+              with open(path, encoding="utf-8") as f:
+                  content = f.read()
+              updated = re.sub(
+                  re.escape(MARKER_START) + r".*?" + re.escape(MARKER_END),
+                  waka_block,
+                  content,
+                  flags=re.DOTALL
+              )
+              with open(path, "w", encoding="utf-8") as f:
+                  f.write(updated)
+              print(f"Updated {path}")
+          EOF
+
+      - name: Commit and push all changes
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git pull --rebase
+          git add README.md README.ja.md README.zh.md
+          git diff --cached --quiet || git commit -m "Update READMEs with WakaTime stats"
+          git push
