@@ -94,17 +94,6 @@ long-910@automotive:~$ _
 
 ---
 
-### 🚀 Featured Projects
-
-<div align="center">
-
-[![GraphHub](https://github-readme-stats.vercel.app/api/pin/?username=long-910&repo=GraphHub&theme=monokai&hide_border=true)](https://github.com/long-910/GraphHub)
-[![vscode-view-charset](https://github-readme-stats.vercel.app/api/pin/?username=long-910&repo=vscode-view-charset&theme=monokai&hide_border=true)](https://github.com/long-910/vscode-view-charset)
-
-</div>
-
----
-
 ### 📊 GitHub Stats
 
 <div align="center">

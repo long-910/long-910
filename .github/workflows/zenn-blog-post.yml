@@ -6,8 +6,8 @@ on:
   workflow_dispatch:
 
 jobs:
-  update-readme:
-    name: Update README with latest Zenn articles
+  update-readmes:
+    name: Update All READMEs with latest Zenn articles
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -21,16 +21,45 @@ jobs:
           max_post_count: 5
           readme_path: "./README.md"
 
-      - name: Update Japanese README
-        uses: gautamkrishnar/blog-post-workflow@v1
-        with:
-          feed_list: "https://zenn.dev/long910/feed"
-          max_post_count: 5
-          readme_path: "./README.ja.md"
+      - name: Sync blog post section to JA/ZH READMEs
+        run: |
+          python3 - <<'EOF'
+          import re
 
-      - name: Update Chinese README
-        uses: gautamkrishnar/blog-post-workflow@v1
-        with:
-          feed_list: "https://zenn.dev/long910/feed"
-          max_post_count: 5
-          readme_path: "./README.zh.md"
+          MARKER_START = "<!-- BLOG-POST-LIST:START -->"
+          MARKER_END   = "<!-- BLOG-POST-LIST:END -->"
+
+          with open("README.md", encoding="utf-8") as f:
+              src = f.read()
+
+          m = re.search(
+              re.escape(MARKER_START) + r"(.*?)" + re.escape(MARKER_END),
+              src, re.DOTALL
+          )
+          if not m:
+              raise SystemExit("Blog post section not found in README.md")
+
+          blog_block = MARKER_START + m.group(1) + MARKER_END
+
+          for path in ["README.ja.md", "README.zh.md"]:
+              with open(path, encoding="utf-8") as f:
+                  content = f.read()
+              updated = re.sub(
+                  re.escape(MARKER_START) + r".*?" + re.escape(MARKER_END),
+                  blog_block,
+                  content,
+                  flags=re.DOTALL
+              )
+              with open(path, "w", encoding="utf-8") as f:
+                  f.write(updated)
+              print(f"Updated {path}")
+          EOF
+
+      - name: Commit and push JA/ZH changes
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git pull --rebase
+          git add README.ja.md README.zh.md
+          git diff --cached --quiet || git commit -m "Update README.ja.md and README.zh.md with latest Zenn articles"
+          git push

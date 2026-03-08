@@ -6,15 +6,16 @@ on:
   workflow_dispatch:
 
 jobs:
-  update-en:
-    name: Update English README
+  update-readmes:
+    name: Update All READMEs
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
       - uses: actions/checkout@v4
 
-      - uses: jamesgeorge007/github-activity-readme@master
+      - name: Update English README
+        uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
@@ -22,36 +23,45 @@ jobs:
           MAX_LINES: 10
           TARGET_FILE: "README.md"
 
-  update-ja:
-    name: Update Japanese README
-    needs: update-en
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: actions/checkout@v4
+      - name: Sync activity section to JA and ZH READMEs
+        run: |
+          python3 - <<'EOF'
+          import re
 
-      - uses: jamesgeorge007/github-activity-readme@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          COMMIT_MSG: "Update README.ja.md with recent activity"
-          MAX_LINES: 10
-          TARGET_FILE: "README.ja.md"
+          MARKER_START = "<!--START_SECTION:activity-->"
+          MARKER_END   = "<!--END_SECTION:activity-->"
 
-  update-zh:
-    name: Update Chinese README
-    needs: update-ja
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: actions/checkout@v4
+          with open("README.md", encoding="utf-8") as f:
+              src = f.read()
 
-      - uses: jamesgeorge007/github-activity-readme@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          COMMIT_MSG: "Update README.zh.md with recent activity"
-          MAX_LINES: 10
-          TARGET_FILE: "README.zh.md"
+          m = re.search(
+              re.escape(MARKER_START) + r"(.*?)" + re.escape(MARKER_END),
+              src, re.DOTALL
+          )
+          if not m:
+              raise SystemExit("Activity section not found in README.md")
+
+          activity_block = MARKER_START + m.group(1) + MARKER_END
+
+          for path in ["README.ja.md", "README.zh.md"]:
+              with open(path, encoding="utf-8") as f:
+                  content = f.read()
+              updated = re.sub(
+                  re.escape(MARKER_START) + r".*?" + re.escape(MARKER_END),
+                  activity_block,
+                  content,
+                  flags=re.DOTALL
+              )
+              with open(path, "w", encoding="utf-8") as f:
+                  f.write(updated)
+              print(f"Updated {path}")
+          EOF
+
+      - name: Commit and push JA/ZH changes
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git pull --rebase
+          git add README.ja.md README.zh.md
+          git diff --cached --quiet || git commit -m "Update README.ja.md and README.zh.md with recent activity"
+          git push
