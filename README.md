@@ -130,16 +130,16 @@ long-910@automotive:~$ _
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/long-910/long-910/pull/9) in [long-910/long-910](https://github.com/long-910/long-910)
-2. 💪 Opened PR [#9](https://github.com/long-910/long-910/pull/9) in [long-910/long-910](https://github.com/long-910/long-910)
-3. 🎉 Merged PR [#16](https://github.com/long-910/zenn_dev/pull/16) in [long-910/zenn_dev](https://github.com/long-910/zenn_dev)
-4. 💪 Opened PR [#16](https://github.com/long-910/zenn_dev/pull/16) in [long-910/zenn_dev](https://github.com/long-910/zenn_dev)
-5. 🎉 Merged PR [#8](https://github.com/long-910/long-910/pull/8) in [long-910/long-910](https://github.com/long-910/long-910)
-6. ❌ Closed PR [#6](https://github.com/long-910/long-910/pull/6) in [long-910/long-910](https://github.com/long-910/long-910)
-7. 💪 Opened PR [#8](https://github.com/long-910/long-910/pull/8) in [long-910/long-910](https://github.com/long-910/long-910)
-8. 🎉 Merged PR [#7](https://github.com/long-910/long-910/pull/7) in [long-910/long-910](https://github.com/long-910/long-910)
-9. 💪 Opened PR [#7](https://github.com/long-910/long-910/pull/7) in [long-910/long-910](https://github.com/long-910/long-910)
-10. 🎉 Merged PR [#22](https://github.com/long-910/dotfiles/pull/22) in [long-910/dotfiles](https://github.com/long-910/dotfiles)
+1. 🎉 Merged PR [#17](https://github.com/long-910/zenn_dev/pull/17) in [long-910/zenn_dev](https://github.com/long-910/zenn_dev)
+2. 💪 Opened PR [#17](https://github.com/long-910/zenn_dev/pull/17) in [long-910/zenn_dev](https://github.com/long-910/zenn_dev)
+3. 🎉 Merged PR [#9](https://github.com/long-910/long-910/pull/9) in [long-910/long-910](https://github.com/long-910/long-910)
+4. 💪 Opened PR [#9](https://github.com/long-910/long-910/pull/9) in [long-910/long-910](https://github.com/long-910/long-910)
+5. 🎉 Merged PR [#16](https://github.com/long-910/zenn_dev/pull/16) in [long-910/zenn_dev](https://github.com/long-910/zenn_dev)
+6. 💪 Opened PR [#16](https://github.com/long-910/zenn_dev/pull/16) in [long-910/zenn_dev](https://github.com/long-910/zenn_dev)
+7. 🎉 Merged PR [#8](https://github.com/long-910/long-910/pull/8) in [long-910/long-910](https://github.com/long-910/long-910)
+8. ❌ Closed PR [#6](https://github.com/long-910/long-910/pull/6) in [long-910/long-910](https://github.com/long-910/long-910)
+9. 💪 Opened PR [#8](https://github.com/long-910/long-910/pull/8) in [long-910/long-910](https://github.com/long-910/long-910)
+10. 🎉 Merged PR [#7](https://github.com/long-910/long-910/pull/7) in [long-910/long-910](https://github.com/long-910/long-910)
 <!--END_SECTION:activity-->
 
 ---
