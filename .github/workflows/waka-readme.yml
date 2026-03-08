@@ -18,7 +18,7 @@ jobs:
         uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          README_FILE: README.md
+          BLOCKS: " █"
 
       - name: Fix bar alignment and sync to JA/ZH READMEs
         run: |
@@ -38,9 +38,9 @@ jobs:
           if not m:
               raise SystemExit("Waka section not found in README.md")
 
-          # Fix rendering: replace partial block chars with full/empty
-          # ▓ (U+2593) → █ (U+2588), ▒ (U+2592) → ░ (U+2591)
-          section_body = m.group(1).replace("▓", "█").replace("▒", "░")
+          # Fix rendering: replace partial/shade block chars with full block or space
+          # ▓ (U+2593) → █ (U+2588), ▒ (U+2592) → space, ░ (U+2591) → space
+          section_body = m.group(1).replace("▓", "█").replace("▒", " ").replace("░", " ")
           waka_block = MARKER_START + section_body + MARKER_END
 
           # Apply fix to README.md as well
