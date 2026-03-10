@@ -146,11 +146,11 @@ long-910@automotive:~$ _
 ### 📝 最新博客文章
 
 <!-- BLOG-POST-LIST:START -->
+- [Rustで作ったバイナリ静的解析ツール「BinSleuth」の紹介](https://zenn.dev/long910/articles/2026-03-08-binsleuth)
 - [Vibe Coding完全ガイド：AIに「雰囲気」で頼んでコードを書いてもらう新スタイル](https://zenn.dev/long910/articles/2026-03-08-vibe-coding)
 - [OpenCode完全ガイド：ターミナルで動くOSSのAIコーディングエージェント](https://zenn.dev/long910/articles/2026-03-04-opencode)
 - [Claude Code をスマホやタブレットからリモート操作する「/remote-control」完全ガイド](https://zenn.dev/long910/articles/2026-03-01-claude-code-remote-control)
 - [ClaudeとGeminiの「Nano Banana」を連携して画像生成を自動化する完全ガイド](https://zenn.dev/long910/articles/2026-02-28-claude-gemini-nano-banana)
-- [Claude Code の使用量をVS Codeのステータスバーでリアルタイム監視する「vscode-claude-status」を作った](https://zenn.dev/long910/articles/2026-02-28-vscode-claude-status)
 <!-- BLOG-POST-LIST:END -->
 
 ---
