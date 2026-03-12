@@ -18,7 +18,6 @@ jobs:
         uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           BLOCKS: " █"
 
       - name: Fix bar alignment and sync to JA/ZH READMEs
