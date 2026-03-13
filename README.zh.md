@@ -129,16 +129,16 @@ long-910@automotive:~$ _
 ### ⚡ 近期动态
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/long-910/tmux-claude-status/pull/10) in [long-910/tmux-claude-status](https://github.com/long-910/tmux-claude-status)
-2. 💪 Opened PR [#10](https://github.com/long-910/tmux-claude-status/pull/10) in [long-910/tmux-claude-status](https://github.com/long-910/tmux-claude-status)
-3. 🎉 Merged PR [#9](https://github.com/long-910/tmux-claude-status/pull/9) in [long-910/tmux-claude-status](https://github.com/long-910/tmux-claude-status)
-4. 🎉 Merged PR [#18](https://github.com/long-910/vscode-claude-status/pull/18) in [long-910/vscode-claude-status](https://github.com/long-910/vscode-claude-status)
-5. 💪 Opened PR [#18](https://github.com/long-910/vscode-claude-status/pull/18) in [long-910/vscode-claude-status](https://github.com/long-910/vscode-claude-status)
-6. 💪 Opened PR [#9](https://github.com/long-910/tmux-claude-status/pull/9) in [long-910/tmux-claude-status](https://github.com/long-910/tmux-claude-status)
-7. 🎉 Merged PR [#8](https://github.com/long-910/tmux-claude-status/pull/8) in [long-910/tmux-claude-status](https://github.com/long-910/tmux-claude-status)
-8. 🎉 Merged PR [#9](https://github.com/long-910/BinSleuth/pull/9) in [long-910/BinSleuth](https://github.com/long-910/BinSleuth)
-9. 💪 Opened PR [#9](https://github.com/long-910/BinSleuth/pull/9) in [long-910/BinSleuth](https://github.com/long-910/BinSleuth)
-10. 🎉 Merged PR [#8](https://github.com/long-910/BinSleuth/pull/8) in [long-910/BinSleuth](https://github.com/long-910/BinSleuth)
+1. 🎉 Merged PR [#10](https://github.com/long-910/long-910/pull/10) in [long-910/long-910](https://github.com/long-910/long-910)
+2. 💪 Opened PR [#10](https://github.com/long-910/long-910/pull/10) in [long-910/long-910](https://github.com/long-910/long-910)
+3. 🎉 Merged PR [#10](https://github.com/long-910/tmux-claude-status/pull/10) in [long-910/tmux-claude-status](https://github.com/long-910/tmux-claude-status)
+4. 💪 Opened PR [#10](https://github.com/long-910/tmux-claude-status/pull/10) in [long-910/tmux-claude-status](https://github.com/long-910/tmux-claude-status)
+5. 🎉 Merged PR [#9](https://github.com/long-910/tmux-claude-status/pull/9) in [long-910/tmux-claude-status](https://github.com/long-910/tmux-claude-status)
+6. 🎉 Merged PR [#18](https://github.com/long-910/vscode-claude-status/pull/18) in [long-910/vscode-claude-status](https://github.com/long-910/vscode-claude-status)
+7. 💪 Opened PR [#18](https://github.com/long-910/vscode-claude-status/pull/18) in [long-910/vscode-claude-status](https://github.com/long-910/vscode-claude-status)
+8. 💪 Opened PR [#9](https://github.com/long-910/tmux-claude-status/pull/9) in [long-910/tmux-claude-status](https://github.com/long-910/tmux-claude-status)
+9. 🎉 Merged PR [#8](https://github.com/long-910/tmux-claude-status/pull/8) in [long-910/tmux-claude-status](https://github.com/long-910/tmux-claude-status)
+10. 🎉 Merged PR [#9](https://github.com/long-910/BinSleuth/pull/9) in [long-910/BinSleuth](https://github.com/long-910/BinSleuth)
 <!--END_SECTION:activity-->
 
 ---
