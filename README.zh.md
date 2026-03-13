@@ -13,6 +13,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=long-910&style=flat-square&color=58a6ff&label=Profile+Views)](https://github.com/long-910/long-910/)
 [![GitHub Followers](https://img.shields.io/github/followers/long-910?label=Followers&logo=github&style=flat-square&color=58a6ff&logoColor=white)](https://github.com/long-910)
 [![Sponsor](https://img.shields.io/badge/Sponsor-GitHub-ea4aaa?style=flat-square&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/long-910)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?style=flat-square&logo=ko-fi&logoColor=white)](https://ko-fi.com/long910)
 
 **📝 Zenn**
 
