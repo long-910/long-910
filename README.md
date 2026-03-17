@@ -129,16 +129,16 @@ long-910@automotive:~$ _
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#23](https://github.com/long-910/vscode-claude-status/pull/23) in [long-910/vscode-claude-status](https://github.com/long-910/vscode-claude-status)
-2. 💪 Opened PR [#23](https://github.com/long-910/vscode-claude-status/pull/23) in [long-910/vscode-claude-status](https://github.com/long-910/vscode-claude-status)
-3. 🎉 Merged PR [#22](https://github.com/long-910/vscode-claude-status/pull/22) in [long-910/vscode-claude-status](https://github.com/long-910/vscode-claude-status)
-4. 💪 Opened PR [#22](https://github.com/long-910/vscode-claude-status/pull/22) in [long-910/vscode-claude-status](https://github.com/long-910/vscode-claude-status)
-5. 🎉 Merged PR [#20](https://github.com/long-910/vscode-claude-status/pull/20) in [long-910/vscode-claude-status](https://github.com/long-910/vscode-claude-status)
-6. 🎉 Merged PR [#41](https://github.com/long-910/vscode-view-charset/pull/41) in [long-910/vscode-view-charset](https://github.com/long-910/vscode-view-charset)
-7. 💪 Opened PR [#41](https://github.com/long-910/vscode-view-charset/pull/41) in [long-910/vscode-view-charset](https://github.com/long-910/vscode-view-charset)
-8. 🎉 Merged PR [#11](https://github.com/long-910/tmux-claude-status/pull/11) in [long-910/tmux-claude-status](https://github.com/long-910/tmux-claude-status)
-9. 💪 Opened PR [#11](https://github.com/long-910/tmux-claude-status/pull/11) in [long-910/tmux-claude-status](https://github.com/long-910/tmux-claude-status)
-10. 🎉 Merged PR [#12](https://github.com/long-910/BinSleuth/pull/12) in [long-910/BinSleuth](https://github.com/long-910/BinSleuth)
+1. 💪 Opened PR [#23](https://github.com/long-910/zenn_dev/pull/23) in [long-910/zenn_dev](https://github.com/long-910/zenn_dev)
+2. 🎉 Merged PR [#23](https://github.com/long-910/vscode-claude-status/pull/23) in [long-910/vscode-claude-status](https://github.com/long-910/vscode-claude-status)
+3. 💪 Opened PR [#23](https://github.com/long-910/vscode-claude-status/pull/23) in [long-910/vscode-claude-status](https://github.com/long-910/vscode-claude-status)
+4. 🎉 Merged PR [#22](https://github.com/long-910/vscode-claude-status/pull/22) in [long-910/vscode-claude-status](https://github.com/long-910/vscode-claude-status)
+5. 💪 Opened PR [#22](https://github.com/long-910/vscode-claude-status/pull/22) in [long-910/vscode-claude-status](https://github.com/long-910/vscode-claude-status)
+6. 🎉 Merged PR [#20](https://github.com/long-910/vscode-claude-status/pull/20) in [long-910/vscode-claude-status](https://github.com/long-910/vscode-claude-status)
+7. 🎉 Merged PR [#41](https://github.com/long-910/vscode-view-charset/pull/41) in [long-910/vscode-view-charset](https://github.com/long-910/vscode-view-charset)
+8. 💪 Opened PR [#41](https://github.com/long-910/vscode-view-charset/pull/41) in [long-910/vscode-view-charset](https://github.com/long-910/vscode-view-charset)
+9. 🎉 Merged PR [#11](https://github.com/long-910/tmux-claude-status/pull/11) in [long-910/tmux-claude-status](https://github.com/long-910/tmux-claude-status)
+10. 💪 Opened PR [#11](https://github.com/long-910/tmux-claude-status/pull/11) in [long-910/tmux-claude-status](https://github.com/long-910/tmux-claude-status)
 <!--END_SECTION:activity-->
 
 ---
