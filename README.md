@@ -148,9 +148,9 @@ long-910@automotive:~$ _
 <!-- BLOG-POST-LIST:START -->
 - [Zenn記事をQiita・はてな・noteに自動同期する仕組みを作った](https://zenn.dev/long910/articles/2026-03-15-multi-platform-blog-strategy)
 - [uv完全ガイド：pip・poetry・pyenvをすべて置き換えるPythonパッケージマネージャー](https://zenn.dev/long910/articles/2026-03-13-uv-python)
+- [Claude Code Hooks完全ガイド：ファイル保存でテスト自動実行・Slack通知まで](https://zenn.dev/long910/articles/2026-03-13-claude-code-hooks)
 - [Rustで作ったバイナリ静的解析ツール「BinSleuth」の紹介](https://zenn.dev/long910/articles/2026-03-08-binsleuth)
 - [Vibe Coding完全ガイド：AIに「雰囲気」で頼んでコードを書いてもらう新スタイル](https://zenn.dev/long910/articles/2026-03-08-vibe-coding)
-- [OpenCode完全ガイド：ターミナルで動くOSSのAIコーディングエージェント](https://zenn.dev/long910/articles/2026-03-04-opencode)
 <!-- BLOG-POST-LIST:END -->
 
 ---
