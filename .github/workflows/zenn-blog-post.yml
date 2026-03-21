@@ -18,7 +18,7 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://zenn.dev/long910/feed"
-          max_post_count: 5
+          max_post_count: 10
           readme_path: "./README.md"
 
       - name: Sync blog post section to JA/ZH READMEs
