@@ -165,11 +165,11 @@ long-910@automotive:~$ _
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown      3 hrs 10 mins         █████████                   34.88 %
-JSON          1 hr 16 mins          ███                         13.92 %
-Python        1 hr 4 mins           ███                         11.86 %
-Text          42 mins               ██                          07.78 %
-Other         36 mins               ██                          06.59 %
+Markdown      2 hrs 41 mins         █████████                   34.62 %
+JSON          1 hr 10 mins          ████                        14.99 %
+Python        1 hr 4 mins           ███                         13.87 %
+Other         36 mins               ██                          07.71 %
+TypeScript    34 mins               ██                          07.43 %
 ```
 
 <!--END_SECTION:waka-->
