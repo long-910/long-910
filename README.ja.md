@@ -123,7 +123,9 @@ root@kali:~# _
 
 <div align="center">
 
-[![HackTheBox Profile](https://www.hackthebox.com/badge/image/698457)](https://app.hackthebox.com/profile/698457)
+<a href="https://app.hackthebox.com/profile/698457">
+  <img src="https://www.hackthebox.com/badge/image/698457" width="600" />
+</a>
 
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-long--910-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/profile/698457)
 
