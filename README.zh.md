@@ -95,6 +95,20 @@ long-910@automotive:~$ _
 
 ---
 
+### 🔐 HackTheBox
+
+<div align="center">
+
+[![HackTheBox Profile](https://www.hackthebox.com/badge/image/698457)](https://app.hackthebox.com/profile/698457)
+
+<br/>
+
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-long--910-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/profile/698457)
+
+</div>
+
+---
+
 ### 📊 GitHub 统计
 
 <div align="center">
