@@ -95,6 +95,44 @@ long-910@automotive:~$ _
 
 ---
 
+### 🔐 HackTheBox
+
+```txt
+root@kali:~# nmap -sV app.hackthebox.com --script htb-enum -p 443
+
+  Starting Nmap 7.94 ( https://nmap.org )
+  Scanning app.hackthebox.com [1 port]
+
+  PORT    STATE  SERVICE  VERSION
+  443/tcp open   ssl/http HackTheBox Platform v2024
+
+  | htb-profile:
+  |   Username : long-910
+  |   User ID  : 698457
+  |_  URL      : https://app.hackthebox.com/profile/698457
+
+  Nmap done: 1 IP address (1 host up)
+
+root@kali:~# htb-connect --user 698457
+  [*] Initiating OpenVPN tunnel to HackTheBox...
+  [✓] Authenticated as long-910
+  [✓] Ready to pwn! Happy Hacking 🔴
+
+root@kali:~# _
+```
+
+<div align="center">
+
+<a href="https://app.hackthebox.com/profile/698457">
+  <img src="https://www.hackthebox.com/badge/image/698457" width="600" />
+</a>
+
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-long--910-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/profile/698457)
+
+</div>
+
+---
+
 ### 📊 GitHub 統計
 
 <div align="center">
