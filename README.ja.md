@@ -202,11 +202,11 @@ root@kali:~# _
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown      2 hrs 41 mins         █████████                   34.62 %
-JSON          1 hr 10 mins          ████                        14.99 %
-Python        1 hr 4 mins           ███                         13.87 %
-Other         36 mins               ██                          07.71 %
-TypeScript    34 mins               ██                          07.43 %
+Markdown      2 hrs 7 mins          ██████████                  39.65 %
+JSON          53 mins               ████                        16.53 %
+Other         36 mins               ███                         11.39 %
+TypeScript    34 mins               ███                         10.81 %
+YAML          28 mins               ██                          09.00 %
 ```
 
 <!--END_SECTION:waka-->
