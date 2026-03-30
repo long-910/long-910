@@ -184,6 +184,7 @@ root@kali:~# _
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHubのコミット履歴からメールアドレスが漏洩していないか自動チェックするツールを作った](https://zenn.dev/long910/articles/2026-03-29-github-leak-check)
 - [Zenn記事をQiita・はてな・noteに自動同期する仕組みを作った](https://zenn.dev/long910/articles/2026-03-15-multi-platform-blog-strategy)
 - [uv完全ガイド：pip・poetry・pyenvをすべて置き換えるPythonパッケージマネージャー](https://zenn.dev/long910/articles/2026-03-13-uv-python)
 - [Claude Code Hooks完全ガイド：ファイル保存でテスト自動実行・Slack通知まで](https://zenn.dev/long910/articles/2026-03-13-claude-code-hooks)
@@ -193,7 +194,6 @@ root@kali:~# _
 - [Claude Code をスマホやタブレットからリモート操作する「/remote-control」完全ガイド](https://zenn.dev/long910/articles/2026-03-01-claude-code-remote-control)
 - [ClaudeとGeminiの「Nano Banana」を連携して画像生成を自動化する完全ガイド](https://zenn.dev/long910/articles/2026-02-28-claude-gemini-nano-banana)
 - [Claude Code の使用量をVS Codeのステータスバーでリアルタイム監視する「vscode-claude-status」を作った](https://zenn.dev/long910/articles/2026-02-28-vscode-claude-status)
-- [Claude Code の使用量をtmuxのステータスバーでリアルタイム監視する「claude-tmux-status」を作った](https://zenn.dev/long910/articles/2026-02-23-claude-tmux-status)
 <!-- BLOG-POST-LIST:END -->
 
 ---
