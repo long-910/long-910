@@ -166,16 +166,16 @@ root@kali:~# _
 ### ⚡ 近期动态
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#27](https://github.com/long-910/zenn_dev/pull/27) in [long-910/zenn_dev](https://github.com/long-910/zenn_dev)
-2. 💪 Opened PR [#27](https://github.com/long-910/zenn_dev/pull/27) in [long-910/zenn_dev](https://github.com/long-910/zenn_dev)
-3. 🎉 Merged PR [#26](https://github.com/long-910/zenn_dev/pull/26) in [long-910/zenn_dev](https://github.com/long-910/zenn_dev)
-4. 💪 Opened PR [#26](https://github.com/long-910/zenn_dev/pull/26) in [long-910/zenn_dev](https://github.com/long-910/zenn_dev)
-5. 💪 Opened PR [#25](https://github.com/long-910/zenn_dev/pull/25) in [long-910/zenn_dev](https://github.com/long-910/zenn_dev)
-6. 🎉 Merged PR [#24](https://github.com/long-910/zenn_dev/pull/24) in [long-910/zenn_dev](https://github.com/long-910/zenn_dev)
-7. 💪 Opened PR [#24](https://github.com/long-910/zenn_dev/pull/24) in [long-910/zenn_dev](https://github.com/long-910/zenn_dev)
-8. 🚀 Published release [v0.1.0 — Initial Release](https://github.com/long-910/github_leak_check/releases/tag/v0.1.0) in [long-910/github_leak_check](https://github.com/long-910/github_leak_check)
-9. 🎉 Merged PR [#5](https://github.com/long-910/github_leak_check/pull/5) in [long-910/github_leak_check](https://github.com/long-910/github_leak_check)
-10. 💪 Opened PR [#5](https://github.com/long-910/github_leak_check/pull/5) in [long-910/github_leak_check](https://github.com/long-910/github_leak_check)
+1. 🎉 Merged PR [#27](https://github.com/long-910/vscode-claude-status/pull/27) in [long-910/vscode-claude-status](https://github.com/long-910/vscode-claude-status)
+2. 💪 Opened PR [#27](https://github.com/long-910/vscode-claude-status/pull/27) in [long-910/vscode-claude-status](https://github.com/long-910/vscode-claude-status)
+3. 🗣 Commented on [#26](https://github.com/long-910/vscode-claude-status/pull/26#issuecomment-4322282375) in [long-910/vscode-claude-status](https://github.com/long-910/vscode-claude-status)
+4. 🎉 Merged PR [#27](https://github.com/long-910/zenn_dev/pull/27) in [long-910/zenn_dev](https://github.com/long-910/zenn_dev)
+5. 💪 Opened PR [#27](https://github.com/long-910/zenn_dev/pull/27) in [long-910/zenn_dev](https://github.com/long-910/zenn_dev)
+6. 🎉 Merged PR [#26](https://github.com/long-910/zenn_dev/pull/26) in [long-910/zenn_dev](https://github.com/long-910/zenn_dev)
+7. 💪 Opened PR [#26](https://github.com/long-910/zenn_dev/pull/26) in [long-910/zenn_dev](https://github.com/long-910/zenn_dev)
+8. 💪 Opened PR [#25](https://github.com/long-910/zenn_dev/pull/25) in [long-910/zenn_dev](https://github.com/long-910/zenn_dev)
+9. 🎉 Merged PR [#24](https://github.com/long-910/zenn_dev/pull/24) in [long-910/zenn_dev](https://github.com/long-910/zenn_dev)
+10. 💪 Opened PR [#24](https://github.com/long-910/zenn_dev/pull/24) in [long-910/zenn_dev](https://github.com/long-910/zenn_dev)
 <!--END_SECTION:activity-->
 
 ---
