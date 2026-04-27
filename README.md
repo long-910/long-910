@@ -203,9 +203,9 @@ root@kali:~# _
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   3 mins                ████████████████████████    95.61 %
-Text       0 secs                █                           02.85 %
-JSON       0 secs                                            01.54 %
+Markdown   23 mins               █████████████████████████   98.01 %
+JSON       0 secs                                            01.87 %
+Text       0 secs                                            00.12 %
 ```
 
 <!--END_SECTION:waka-->
