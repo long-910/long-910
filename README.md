@@ -184,6 +184,7 @@ root@kali:~# _
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AIとセキュリティ入門 ― LLMを狙う攻撃と防御を体系的に学ぶ](https://zenn.dev/long910/articles/2026-04-28-ai-security-learning)
 - [外出中でも GitHub Copilot でコード修正まで完結させる](https://zenn.dev/long910/articles/2026-04-05-github-copilot-mobile)
 - [GitHub Copilot 実践活用術 ― 日常開発を加速する10のテクニック](https://zenn.dev/long910/articles/2026-04-04-github-copilot-best-practices)
 - [GitHubのコミット履歴からメールアドレスが漏洩していないか自動チェックするツールを作った](https://zenn.dev/long910/articles/2026-03-29-github-leak-check)
@@ -193,7 +194,6 @@ root@kali:~# _
 - [Rustで作ったバイナリ静的解析ツール「BinSleuth」の紹介](https://zenn.dev/long910/articles/2026-03-08-binsleuth)
 - [Vibe Coding完全ガイド：AIに「雰囲気」で頼んでコードを書いてもらう新スタイル](https://zenn.dev/long910/articles/2026-03-08-vibe-coding)
 - [OpenCode完全ガイド：ターミナルで動くOSSのAIコーディングエージェント](https://zenn.dev/long910/articles/2026-03-04-opencode)
-- [Claude Code をスマホやタブレットからリモート操作する「/remote-control」完全ガイド](https://zenn.dev/long910/articles/2026-03-01-claude-code-remote-control)
 <!-- BLOG-POST-LIST:END -->
 
 ---
