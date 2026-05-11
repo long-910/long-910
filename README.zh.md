@@ -166,16 +166,16 @@ root@kali:~# _
 ### ⚡ 近期动态
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#29](https://github.com/long-910/zenn_dev/pull/29) in [long-910/zenn_dev](https://github.com/long-910/zenn_dev)
-2. 💪 Opened PR [#29](https://github.com/long-910/zenn_dev/pull/29) in [long-910/zenn_dev](https://github.com/long-910/zenn_dev)
-3. 🎉 Merged PR [#32](https://github.com/long-910/vscode-claude-status/pull/32) in [long-910/vscode-claude-status](https://github.com/long-910/vscode-claude-status)
-4. 🔒 Closed issue [#31](https://github.com/long-910/vscode-claude-status/issues/31) in [long-910/vscode-claude-status](https://github.com/long-910/vscode-claude-status)
-5. 🗣 Commented on [#31](https://github.com/long-910/vscode-claude-status/issues/31#issuecomment-4358800016) in [long-910/vscode-claude-status](https://github.com/long-910/vscode-claude-status)
-6. ℹ️ Assigned issue [#31](https://github.com/long-910/vscode-claude-status/issues/31) in [long-910/vscode-claude-status](https://github.com/long-910/vscode-claude-status)
-7. 💪 Opened PR [#32](https://github.com/long-910/vscode-claude-status/pull/32) in [long-910/vscode-claude-status](https://github.com/long-910/vscode-claude-status)
-8. 🗣 Commented on [#28](https://github.com/long-910/vscode-claude-status/issues/28#issuecomment-4353390150) in [long-910/vscode-claude-status](https://github.com/long-910/vscode-claude-status)
-9. 🎉 Merged PR [#29](https://github.com/long-910/vscode-claude-status/pull/29) in [long-910/vscode-claude-status](https://github.com/long-910/vscode-claude-status)
-10. 🔒 Closed issue [#28](https://github.com/long-910/vscode-claude-status/issues/28) in [long-910/vscode-claude-status](https://github.com/long-910/vscode-claude-status)
+1. 💪 Opened PR [#12](https://github.com/long-910/tmux-claude-status/pull/12) in [long-910/tmux-claude-status](https://github.com/long-910/tmux-claude-status)
+2. 💪 Opened PR [#33](https://github.com/long-910/vscode-claude-status/pull/33) in [long-910/vscode-claude-status](https://github.com/long-910/vscode-claude-status)
+3. 🎉 Merged PR [#29](https://github.com/long-910/zenn_dev/pull/29) in [long-910/zenn_dev](https://github.com/long-910/zenn_dev)
+4. 💪 Opened PR [#29](https://github.com/long-910/zenn_dev/pull/29) in [long-910/zenn_dev](https://github.com/long-910/zenn_dev)
+5. 🎉 Merged PR [#32](https://github.com/long-910/vscode-claude-status/pull/32) in [long-910/vscode-claude-status](https://github.com/long-910/vscode-claude-status)
+6. 🔒 Closed issue [#31](https://github.com/long-910/vscode-claude-status/issues/31) in [long-910/vscode-claude-status](https://github.com/long-910/vscode-claude-status)
+7. 🗣 Commented on [#31](https://github.com/long-910/vscode-claude-status/issues/31#issuecomment-4358800016) in [long-910/vscode-claude-status](https://github.com/long-910/vscode-claude-status)
+8. ℹ️ Assigned issue [#31](https://github.com/long-910/vscode-claude-status/issues/31) in [long-910/vscode-claude-status](https://github.com/long-910/vscode-claude-status)
+9. 💪 Opened PR [#32](https://github.com/long-910/vscode-claude-status/pull/32) in [long-910/vscode-claude-status](https://github.com/long-910/vscode-claude-status)
+10. 🗣 Commented on [#28](https://github.com/long-910/vscode-claude-status/issues/28#issuecomment-4353390150) in [long-910/vscode-claude-status](https://github.com/long-910/vscode-claude-status)
 <!--END_SECTION:activity-->
 
 ---
