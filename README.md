@@ -167,16 +167,16 @@ root@kali:~# _
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#12](https://github.com/long-910/tmux-claude-status/pull/12) in [long-910/tmux-claude-status](https://github.com/long-910/tmux-claude-status)
-2. 💪 Opened PR [#33](https://github.com/long-910/vscode-claude-status/pull/33) in [long-910/vscode-claude-status](https://github.com/long-910/vscode-claude-status)
-3. 🎉 Merged PR [#29](https://github.com/long-910/zenn_dev/pull/29) in [long-910/zenn_dev](https://github.com/long-910/zenn_dev)
-4. 💪 Opened PR [#29](https://github.com/long-910/zenn_dev/pull/29) in [long-910/zenn_dev](https://github.com/long-910/zenn_dev)
-5. 🎉 Merged PR [#32](https://github.com/long-910/vscode-claude-status/pull/32) in [long-910/vscode-claude-status](https://github.com/long-910/vscode-claude-status)
-6. 🔒 Closed issue [#31](https://github.com/long-910/vscode-claude-status/issues/31) in [long-910/vscode-claude-status](https://github.com/long-910/vscode-claude-status)
-7. 🗣 Commented on [#31](https://github.com/long-910/vscode-claude-status/issues/31#issuecomment-4358800016) in [long-910/vscode-claude-status](https://github.com/long-910/vscode-claude-status)
-8. ℹ️ Assigned issue [#31](https://github.com/long-910/vscode-claude-status/issues/31) in [long-910/vscode-claude-status](https://github.com/long-910/vscode-claude-status)
-9. 💪 Opened PR [#32](https://github.com/long-910/vscode-claude-status/pull/32) in [long-910/vscode-claude-status](https://github.com/long-910/vscode-claude-status)
-10. 🗣 Commented on [#28](https://github.com/long-910/vscode-claude-status/issues/28#issuecomment-4353390150) in [long-910/vscode-claude-status](https://github.com/long-910/vscode-claude-status)
+1. 🎉 Merged PR [#7](https://github.com/long-910/vscode-htb-companion/pull/7) in [long-910/vscode-htb-companion](https://github.com/long-910/vscode-htb-companion)
+2. 💪 Opened PR [#7](https://github.com/long-910/vscode-htb-companion/pull/7) in [long-910/vscode-htb-companion](https://github.com/long-910/vscode-htb-companion)
+3. 🎉 Merged PR [#6](https://github.com/long-910/vscode-htb-companion/pull/6) in [long-910/vscode-htb-companion](https://github.com/long-910/vscode-htb-companion)
+4. 💪 Opened PR [#6](https://github.com/long-910/vscode-htb-companion/pull/6) in [long-910/vscode-htb-companion](https://github.com/long-910/vscode-htb-companion)
+5. 🎉 Merged PR [#5](https://github.com/long-910/vscode-htb-companion/pull/5) in [long-910/vscode-htb-companion](https://github.com/long-910/vscode-htb-companion)
+6. 💪 Opened PR [#5](https://github.com/long-910/vscode-htb-companion/pull/5) in [long-910/vscode-htb-companion](https://github.com/long-910/vscode-htb-companion)
+7. 🎉 Merged PR [#4](https://github.com/long-910/vscode-htb-companion/pull/4) in [long-910/vscode-htb-companion](https://github.com/long-910/vscode-htb-companion)
+8. 💪 Opened PR [#4](https://github.com/long-910/vscode-htb-companion/pull/4) in [long-910/vscode-htb-companion](https://github.com/long-910/vscode-htb-companion)
+9. 🎉 Merged PR [#3](https://github.com/long-910/vscode-htb-companion/pull/3) in [long-910/vscode-htb-companion](https://github.com/long-910/vscode-htb-companion)
+10. 💪 Opened PR [#3](https://github.com/long-910/vscode-htb-companion/pull/3) in [long-910/vscode-htb-companion](https://github.com/long-910/vscode-htb-companion)
 <!--END_SECTION:activity-->
 
 ---
