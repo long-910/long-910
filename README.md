@@ -184,6 +184,7 @@ root@kali:~# _
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [MacOSおすすめアプリ完全ガイド 2026：用途別に厳選した必須ツール集](https://zenn.dev/long910/articles/2026-05-17-macos-recommended-apps)
 - [Kali Linux vs Parrot OS ― セキュリティ特化ディストリビューションを徹底比較](https://zenn.dev/long910/articles/2026-05-05-kali-vs-parrot)
 - [AIとセキュリティ入門 ― LLMを狙う攻撃と防御を体系的に学ぶ](https://zenn.dev/long910/articles/2026-04-28-ai-security-learning)
 - [外出中でも GitHub Copilot でコード修正まで完結させる](https://zenn.dev/long910/articles/2026-04-05-github-copilot-mobile)
@@ -193,7 +194,6 @@ root@kali:~# _
 - [uv完全ガイド：pip・poetry・pyenvをすべて置き換えるPythonパッケージマネージャー](https://zenn.dev/long910/articles/2026-03-13-uv-python)
 - [Claude Code Hooks完全ガイド：ファイル保存でテスト自動実行・Slack通知まで](https://zenn.dev/long910/articles/2026-03-13-claude-code-hooks)
 - [Rustで作ったバイナリ静的解析ツール「BinSleuth」の紹介](https://zenn.dev/long910/articles/2026-03-08-binsleuth)
-- [Vibe Coding完全ガイド：AIに「雰囲気」で頼んでコードを書いてもらう新スタイル](https://zenn.dev/long910/articles/2026-03-08-vibe-coding)
 <!-- BLOG-POST-LIST:END -->
 
 ---
