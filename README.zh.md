@@ -166,16 +166,16 @@ root@kali:~# _
 ### ⚡ 近期动态
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#33](https://github.com/long-910/zenn_dev/pull/33) in [long-910/zenn_dev](https://github.com/long-910/zenn_dev)
-2. 💪 Opened PR [#33](https://github.com/long-910/zenn_dev/pull/33) in [long-910/zenn_dev](https://github.com/long-910/zenn_dev)
-3. 🎉 Merged PR [#32](https://github.com/long-910/zenn_dev/pull/32) in [long-910/zenn_dev](https://github.com/long-910/zenn_dev)
-4. 💪 Opened PR [#32](https://github.com/long-910/zenn_dev/pull/32) in [long-910/zenn_dev](https://github.com/long-910/zenn_dev)
-5. 💪 Opened PR [#8](https://github.com/long-910/vscode-htb-companion/pull/8) in [long-910/vscode-htb-companion](https://github.com/long-910/vscode-htb-companion)
-6. 💪 Opened PR [#31](https://github.com/long-910/zenn_dev/pull/31) in [long-910/zenn_dev](https://github.com/long-910/zenn_dev)
-7. 🎉 Merged PR [#7](https://github.com/long-910/vscode-htb-companion/pull/7) in [long-910/vscode-htb-companion](https://github.com/long-910/vscode-htb-companion)
-8. 💪 Opened PR [#7](https://github.com/long-910/vscode-htb-companion/pull/7) in [long-910/vscode-htb-companion](https://github.com/long-910/vscode-htb-companion)
-9. 🎉 Merged PR [#6](https://github.com/long-910/vscode-htb-companion/pull/6) in [long-910/vscode-htb-companion](https://github.com/long-910/vscode-htb-companion)
-10. 💪 Opened PR [#6](https://github.com/long-910/vscode-htb-companion/pull/6) in [long-910/vscode-htb-companion](https://github.com/long-910/vscode-htb-companion)
+1. 🎉 Merged PR [#34](https://github.com/long-910/zenn_dev/pull/34) in [long-910/zenn_dev](https://github.com/long-910/zenn_dev)
+2. 💪 Opened PR [#34](https://github.com/long-910/zenn_dev/pull/34) in [long-910/zenn_dev](https://github.com/long-910/zenn_dev)
+3. 🎉 Merged PR [#33](https://github.com/long-910/zenn_dev/pull/33) in [long-910/zenn_dev](https://github.com/long-910/zenn_dev)
+4. 💪 Opened PR [#33](https://github.com/long-910/zenn_dev/pull/33) in [long-910/zenn_dev](https://github.com/long-910/zenn_dev)
+5. 🎉 Merged PR [#32](https://github.com/long-910/zenn_dev/pull/32) in [long-910/zenn_dev](https://github.com/long-910/zenn_dev)
+6. 💪 Opened PR [#32](https://github.com/long-910/zenn_dev/pull/32) in [long-910/zenn_dev](https://github.com/long-910/zenn_dev)
+7. 💪 Opened PR [#8](https://github.com/long-910/vscode-htb-companion/pull/8) in [long-910/vscode-htb-companion](https://github.com/long-910/vscode-htb-companion)
+8. 💪 Opened PR [#31](https://github.com/long-910/zenn_dev/pull/31) in [long-910/zenn_dev](https://github.com/long-910/zenn_dev)
+9. 🎉 Merged PR [#7](https://github.com/long-910/vscode-htb-companion/pull/7) in [long-910/vscode-htb-companion](https://github.com/long-910/vscode-htb-companion)
+10. 💪 Opened PR [#7](https://github.com/long-910/vscode-htb-companion/pull/7) in [long-910/vscode-htb-companion](https://github.com/long-910/vscode-htb-companion)
 <!--END_SECTION:activity-->
 
 ---
