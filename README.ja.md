@@ -183,16 +183,16 @@ root@kali:~# _
 ### 📝 最新のブログ記事
 
 <!-- BLOG-POST-LIST:START -->
+- [レッドチームセキュリティ学習：ハッキングツールを5フェーズで整理](https://zenn.dev/long910/articles/2026-05-17-ceh-tools-guide)
 - [AmiVoice API × Claude APIで作るリアルタイム日本語音声対話システム](https://zenn.dev/long910/articles/2026-05-25-amivoice-claude-voice-assistant)
 - [Flipper One が気になったので調べてみた — ポケットサイズのLinux ARMコンピュータ](https://zenn.dev/long910/articles/2026-05-23-flipper-one-intro)
 - [MacOSおすすめアプリ完全ガイド 2026：用途別に厳選した必須ツール集](https://zenn.dev/long910/articles/2026-05-17-macos-recommended-apps)
+- [レッドチームセキュリティ：攻撃フェーズ別に学ぶ重要用語ガイド](https://zenn.dev/long910/articles/2026-05-16-ceh-terminology-guide)
 - [Kali Linux vs Parrot OS ― セキュリティ特化ディストリビューションを徹底比較](https://zenn.dev/long910/articles/2026-05-05-kali-vs-parrot)
 - [AIとセキュリティ入門 ― LLMを狙う攻撃と防御を体系的に学ぶ](https://zenn.dev/long910/articles/2026-04-28-ai-security-learning)
 - [外出中でも GitHub Copilot でコード修正まで完結させる](https://zenn.dev/long910/articles/2026-04-05-github-copilot-mobile)
 - [GitHub Copilot 実践活用術 ― 日常開発を加速する10のテクニック](https://zenn.dev/long910/articles/2026-04-04-github-copilot-best-practices)
 - [GitHubのコミット履歴からメールアドレスが漏洩していないか自動チェックするツールを作った](https://zenn.dev/long910/articles/2026-03-29-github-leak-check)
-- [Zenn記事をQiita・はてな・noteに自動同期する仕組みを作った](https://zenn.dev/long910/articles/2026-03-15-multi-platform-blog-strategy)
-- [uv完全ガイド：pip・poetry・pyenvをすべて置き換えるPythonパッケージマネージャー](https://zenn.dev/long910/articles/2026-03-13-uv-python)
 <!-- BLOG-POST-LIST:END -->
 
 ---
