@@ -166,16 +166,16 @@ root@kali:~# _
 ### ⚡ 最近のアクティビティ
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#37](https://github.com/long-910/zenn_dev/pull/37) in [long-910/zenn_dev](https://github.com/long-910/zenn_dev)
-2. 💪 Opened PR [#37](https://github.com/long-910/zenn_dev/pull/37) in [long-910/zenn_dev](https://github.com/long-910/zenn_dev)
-3. ❌ Closed PR [#36](https://github.com/long-910/zenn_dev/pull/36) in [long-910/zenn_dev](https://github.com/long-910/zenn_dev)
-4. 🗣 Commented on [#36](https://github.com/long-910/zenn_dev/pull/36#issuecomment-4544547823) in [long-910/zenn_dev](https://github.com/long-910/zenn_dev)
-5. 🗣 Commented on [#35](https://github.com/long-910/zenn_dev/pull/35#issuecomment-4544539700) in [long-910/zenn_dev](https://github.com/long-910/zenn_dev)
-6. ❌ Closed PR [#35](https://github.com/long-910/zenn_dev/pull/35) in [long-910/zenn_dev](https://github.com/long-910/zenn_dev)
-7. 💪 Opened PR [#36](https://github.com/long-910/zenn_dev/pull/36) in [long-910/zenn_dev](https://github.com/long-910/zenn_dev)
-8. 💪 Opened PR [#35](https://github.com/long-910/zenn_dev/pull/35) in [long-910/zenn_dev](https://github.com/long-910/zenn_dev)
-9. 🎉 Merged PR [#31](https://github.com/long-910/zenn_dev/pull/31) in [long-910/zenn_dev](https://github.com/long-910/zenn_dev)
-10. 🎉 Merged PR [#34](https://github.com/long-910/zenn_dev/pull/34) in [long-910/zenn_dev](https://github.com/long-910/zenn_dev)
+1. ℹ️ Labeled issue [#10682](https://github.com/EclipseFdn/open-vsx.org/issues/10682) in [EclipseFdn/open-vsx.org](https://github.com/EclipseFdn/open-vsx.org)
+2. ℹ️ Labeled issue [#10682](https://github.com/EclipseFdn/open-vsx.org/issues/10682) in [EclipseFdn/open-vsx.org](https://github.com/EclipseFdn/open-vsx.org)
+3. ❗ Opened issue [#10682](https://github.com/EclipseFdn/open-vsx.org/issues/10682) in [EclipseFdn/open-vsx.org](https://github.com/EclipseFdn/open-vsx.org)
+4. 🎉 Merged PR [#37](https://github.com/long-910/zenn_dev/pull/37) in [long-910/zenn_dev](https://github.com/long-910/zenn_dev)
+5. 💪 Opened PR [#37](https://github.com/long-910/zenn_dev/pull/37) in [long-910/zenn_dev](https://github.com/long-910/zenn_dev)
+6. ❌ Closed PR [#36](https://github.com/long-910/zenn_dev/pull/36) in [long-910/zenn_dev](https://github.com/long-910/zenn_dev)
+7. 🗣 Commented on [#36](https://github.com/long-910/zenn_dev/pull/36#issuecomment-4544547823) in [long-910/zenn_dev](https://github.com/long-910/zenn_dev)
+8. 🗣 Commented on [#35](https://github.com/long-910/zenn_dev/pull/35#issuecomment-4544539700) in [long-910/zenn_dev](https://github.com/long-910/zenn_dev)
+9. ❌ Closed PR [#35](https://github.com/long-910/zenn_dev/pull/35) in [long-910/zenn_dev](https://github.com/long-910/zenn_dev)
+10. 💪 Opened PR [#36](https://github.com/long-910/zenn_dev/pull/36) in [long-910/zenn_dev](https://github.com/long-910/zenn_dev)
 <!--END_SECTION:activity-->
 
 ---
