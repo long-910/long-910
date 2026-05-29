@@ -166,16 +166,16 @@ root@kali:~# _
 ### ⚡ 最近のアクティビティ
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#10682](https://github.com/EclipseFdn/open-vsx.org/issues/10682) in [EclipseFdn/open-vsx.org](https://github.com/EclipseFdn/open-vsx.org)
-2. ℹ️ Labeled issue [#10682](https://github.com/EclipseFdn/open-vsx.org/issues/10682) in [EclipseFdn/open-vsx.org](https://github.com/EclipseFdn/open-vsx.org)
-3. ❗ Opened issue [#10682](https://github.com/EclipseFdn/open-vsx.org/issues/10682) in [EclipseFdn/open-vsx.org](https://github.com/EclipseFdn/open-vsx.org)
-4. 🎉 Merged PR [#37](https://github.com/long-910/zenn_dev/pull/37) in [long-910/zenn_dev](https://github.com/long-910/zenn_dev)
-5. 💪 Opened PR [#37](https://github.com/long-910/zenn_dev/pull/37) in [long-910/zenn_dev](https://github.com/long-910/zenn_dev)
-6. ❌ Closed PR [#36](https://github.com/long-910/zenn_dev/pull/36) in [long-910/zenn_dev](https://github.com/long-910/zenn_dev)
-7. 🗣 Commented on [#36](https://github.com/long-910/zenn_dev/pull/36#issuecomment-4544547823) in [long-910/zenn_dev](https://github.com/long-910/zenn_dev)
-8. 🗣 Commented on [#35](https://github.com/long-910/zenn_dev/pull/35#issuecomment-4544539700) in [long-910/zenn_dev](https://github.com/long-910/zenn_dev)
-9. ❌ Closed PR [#35](https://github.com/long-910/zenn_dev/pull/35) in [long-910/zenn_dev](https://github.com/long-910/zenn_dev)
-10. 💪 Opened PR [#36](https://github.com/long-910/zenn_dev/pull/36) in [long-910/zenn_dev](https://github.com/long-910/zenn_dev)
+1. 🎉 Merged PR [#12](https://github.com/long-910/vscode-binsleuth/pull/12) in [long-910/vscode-binsleuth](https://github.com/long-910/vscode-binsleuth)
+2. 💪 Opened PR [#12](https://github.com/long-910/vscode-binsleuth/pull/12) in [long-910/vscode-binsleuth](https://github.com/long-910/vscode-binsleuth)
+3. 🎉 Merged PR [#11](https://github.com/long-910/vscode-binsleuth/pull/11) in [long-910/vscode-binsleuth](https://github.com/long-910/vscode-binsleuth)
+4. 🎉 Merged PR [#48](https://github.com/long-910/vscode-view-charset/pull/48) in [long-910/vscode-view-charset](https://github.com/long-910/vscode-view-charset)
+5. 💪 Opened PR [#48](https://github.com/long-910/vscode-view-charset/pull/48) in [long-910/vscode-view-charset](https://github.com/long-910/vscode-view-charset)
+6. 💪 Opened PR [#11](https://github.com/long-910/vscode-binsleuth/pull/11) in [long-910/vscode-binsleuth](https://github.com/long-910/vscode-binsleuth)
+7. 🎉 Merged PR [#47](https://github.com/long-910/vscode-view-charset/pull/47) in [long-910/vscode-view-charset](https://github.com/long-910/vscode-view-charset)
+8. 💪 Opened PR [#47](https://github.com/long-910/vscode-view-charset/pull/47) in [long-910/vscode-view-charset](https://github.com/long-910/vscode-view-charset)
+9. 🎉 Merged PR [#46](https://github.com/long-910/vscode-view-charset/pull/46) in [long-910/vscode-view-charset](https://github.com/long-910/vscode-view-charset)
+10. 💪 Opened PR [#46](https://github.com/long-910/vscode-view-charset/pull/46) in [long-910/vscode-view-charset](https://github.com/long-910/vscode-view-charset)
 <!--END_SECTION:activity-->
 
 ---
