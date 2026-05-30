@@ -184,6 +184,7 @@ root@kali:~# _
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [YouCam APIが気になったので調べてみた - ARと生成AIで美容体験を作るとは](https://zenn.dev/long910/articles/2026-05-30-youcam-api-investigation)
 - [レッドチームセキュリティ学習：ハッキングツールを5フェーズで整理](https://zenn.dev/long910/articles/2026-05-17-ceh-tools-guide)
 - [AmiVoice API × Claude APIで作るリアルタイム日本語音声対話システム](https://zenn.dev/long910/articles/2026-05-25-amivoice-claude-voice-assistant)
 - [Flipper One が気になったので調べてみた — ポケットサイズのLinux ARMコンピュータ](https://zenn.dev/long910/articles/2026-05-23-flipper-one-intro)
@@ -193,7 +194,6 @@ root@kali:~# _
 - [AIとセキュリティ入門 ― LLMを狙う攻撃と防御を体系的に学ぶ](https://zenn.dev/long910/articles/2026-04-28-ai-security-learning)
 - [外出中でも GitHub Copilot でコード修正まで完結させる](https://zenn.dev/long910/articles/2026-04-05-github-copilot-mobile)
 - [GitHub Copilot 実践活用術 ― 日常開発を加速する10のテクニック](https://zenn.dev/long910/articles/2026-04-04-github-copilot-best-practices)
-- [GitHubのコミット履歴からメールアドレスが漏洩していないか自動チェックするツールを作った](https://zenn.dev/long910/articles/2026-03-29-github-leak-check)
 <!-- BLOG-POST-LIST:END -->
 
 ---
