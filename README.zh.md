@@ -183,6 +183,7 @@ root@kali:~# _
 ### 📝 最新博客文章
 
 <!-- BLOG-POST-LIST:START -->
+- [MacのUTMでParrotOSを動かしてみた（日本語入力・画面調整・共有フォルダも）](https://zenn.dev/long910/articles/2026-06-02-parrot-os-utm-mac-guide)
 - [YouCam APIが気になったので調べてみた - ARと生成AIで美容体験を作るとは](https://zenn.dev/long910/articles/2026-05-30-youcam-api-investigation)
 - [レッドチームセキュリティ学習：ハッキングツールを5フェーズで整理](https://zenn.dev/long910/articles/2026-05-17-ceh-tools-guide)
 - [AmiVoice API × Claude APIで作るリアルタイム日本語音声対話システム](https://zenn.dev/long910/articles/2026-05-25-amivoice-claude-voice-assistant)
@@ -192,7 +193,6 @@ root@kali:~# _
 - [Kali Linux vs Parrot OS ― セキュリティ特化ディストリビューションを徹底比較](https://zenn.dev/long910/articles/2026-05-05-kali-vs-parrot)
 - [AIとセキュリティ入門 ― LLMを狙う攻撃と防御を体系的に学ぶ](https://zenn.dev/long910/articles/2026-04-28-ai-security-learning)
 - [外出中でも GitHub Copilot でコード修正まで完結させる](https://zenn.dev/long910/articles/2026-04-05-github-copilot-mobile)
-- [GitHub Copilot 実践活用術 ― 日常開発を加速する10のテクニック](https://zenn.dev/long910/articles/2026-04-04-github-copilot-best-practices)
 <!-- BLOG-POST-LIST:END -->
 
 ---
