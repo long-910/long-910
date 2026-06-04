@@ -166,16 +166,16 @@ root@kali:~# _
 ### ⚡ 最近のアクティビティ
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#39](https://github.com/long-910/zenn_dev/pull/39) in [long-910/zenn_dev](https://github.com/long-910/zenn_dev)
-2. 💪 Opened PR [#39](https://github.com/long-910/zenn_dev/pull/39) in [long-910/zenn_dev](https://github.com/long-910/zenn_dev)
-3. 🎉 Merged PR [#38](https://github.com/long-910/zenn_dev/pull/38) in [long-910/zenn_dev](https://github.com/long-910/zenn_dev)
-4. 💪 Opened PR [#38](https://github.com/long-910/zenn_dev/pull/38) in [long-910/zenn_dev](https://github.com/long-910/zenn_dev)
-5. 🎉 Merged PR [#12](https://github.com/long-910/vscode-binsleuth/pull/12) in [long-910/vscode-binsleuth](https://github.com/long-910/vscode-binsleuth)
-6. 💪 Opened PR [#12](https://github.com/long-910/vscode-binsleuth/pull/12) in [long-910/vscode-binsleuth](https://github.com/long-910/vscode-binsleuth)
-7. 🎉 Merged PR [#11](https://github.com/long-910/vscode-binsleuth/pull/11) in [long-910/vscode-binsleuth](https://github.com/long-910/vscode-binsleuth)
-8. 🎉 Merged PR [#48](https://github.com/long-910/vscode-view-charset/pull/48) in [long-910/vscode-view-charset](https://github.com/long-910/vscode-view-charset)
-9. 💪 Opened PR [#48](https://github.com/long-910/vscode-view-charset/pull/48) in [long-910/vscode-view-charset](https://github.com/long-910/vscode-view-charset)
-10. 💪 Opened PR [#11](https://github.com/long-910/vscode-binsleuth/pull/11) in [long-910/vscode-binsleuth](https://github.com/long-910/vscode-binsleuth)
+1. 🎉 Merged PR [#40](https://github.com/long-910/zenn_dev/pull/40) in [long-910/zenn_dev](https://github.com/long-910/zenn_dev)
+2. 💪 Opened PR [#40](https://github.com/long-910/zenn_dev/pull/40) in [long-910/zenn_dev](https://github.com/long-910/zenn_dev)
+3. 🎉 Merged PR [#39](https://github.com/long-910/zenn_dev/pull/39) in [long-910/zenn_dev](https://github.com/long-910/zenn_dev)
+4. 💪 Opened PR [#39](https://github.com/long-910/zenn_dev/pull/39) in [long-910/zenn_dev](https://github.com/long-910/zenn_dev)
+5. 🎉 Merged PR [#38](https://github.com/long-910/zenn_dev/pull/38) in [long-910/zenn_dev](https://github.com/long-910/zenn_dev)
+6. 💪 Opened PR [#38](https://github.com/long-910/zenn_dev/pull/38) in [long-910/zenn_dev](https://github.com/long-910/zenn_dev)
+7. 🎉 Merged PR [#12](https://github.com/long-910/vscode-binsleuth/pull/12) in [long-910/vscode-binsleuth](https://github.com/long-910/vscode-binsleuth)
+8. 💪 Opened PR [#12](https://github.com/long-910/vscode-binsleuth/pull/12) in [long-910/vscode-binsleuth](https://github.com/long-910/vscode-binsleuth)
+9. 🎉 Merged PR [#11](https://github.com/long-910/vscode-binsleuth/pull/11) in [long-910/vscode-binsleuth](https://github.com/long-910/vscode-binsleuth)
+10. 🎉 Merged PR [#48](https://github.com/long-910/vscode-view-charset/pull/48) in [long-910/vscode-view-charset](https://github.com/long-910/vscode-view-charset)
 <!--END_SECTION:activity-->
 
 ---
