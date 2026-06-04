@@ -183,6 +183,7 @@ root@kali:~# _
 ### 📝 最新のブログ記事
 
 <!-- BLOG-POST-LIST:START -->
+- [MacBook M5 に John the Ripper をインストールして使ってみた](https://zenn.dev/long910/articles/2026-06-03-john-the-ripper-mac-m5)
 - [MacのUTMでParrotOSを動かしてみた（日本語入力・画面調整・共有フォルダも）](https://zenn.dev/long910/articles/2026-06-02-parrot-os-utm-mac-guide)
 - [YouCam APIが気になったので調べてみた - ARと生成AIで美容体験を作るとは](https://zenn.dev/long910/articles/2026-05-30-youcam-api-investigation)
 - [レッドチームセキュリティ学習：ハッキングツールを5フェーズで整理](https://zenn.dev/long910/articles/2026-05-17-ceh-tools-guide)
@@ -192,7 +193,6 @@ root@kali:~# _
 - [レッドチームセキュリティ：攻撃フェーズ別に学ぶ重要用語ガイド](https://zenn.dev/long910/articles/2026-05-16-ceh-terminology-guide)
 - [Kali Linux vs Parrot OS ― セキュリティ特化ディストリビューションを徹底比較](https://zenn.dev/long910/articles/2026-05-05-kali-vs-parrot)
 - [AIとセキュリティ入門 ― LLMを狙う攻撃と防御を体系的に学ぶ](https://zenn.dev/long910/articles/2026-04-28-ai-security-learning)
-- [外出中でも GitHub Copilot でコード修正まで完結させる](https://zenn.dev/long910/articles/2026-04-05-github-copilot-mobile)
 <!-- BLOG-POST-LIST:END -->
 
 ---
