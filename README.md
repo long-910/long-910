@@ -184,6 +184,7 @@ root@kali:~# _
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [CVE-2026-49975「HTTP/2 Bomb」をわかりやすく解説——AIが人間より先に気づいた脆弱性](https://zenn.dev/long910/articles/2026-06-05-cve-2026-49975-http2-bomb-ai)
 - [MacBook M5 に John the Ripper をインストールして使ってみた](https://zenn.dev/long910/articles/2026-06-03-john-the-ripper-mac-m5)
 - [MacのUTMでParrotOSを動かしてみた（日本語入力・画面調整・共有フォルダも）](https://zenn.dev/long910/articles/2026-06-02-parrot-os-utm-mac-guide)
 - [YouCam APIが気になったので調べてみた - ARと生成AIで美容体験を作るとは](https://zenn.dev/long910/articles/2026-05-30-youcam-api-investigation)
@@ -193,7 +194,6 @@ root@kali:~# _
 - [MacOSおすすめアプリ完全ガイド 2026：用途別に厳選した必須ツール集](https://zenn.dev/long910/articles/2026-05-17-macos-recommended-apps)
 - [レッドチームセキュリティ：攻撃フェーズ別に学ぶ重要用語ガイド](https://zenn.dev/long910/articles/2026-05-16-ceh-terminology-guide)
 - [Kali Linux vs Parrot OS ― セキュリティ特化ディストリビューションを徹底比較](https://zenn.dev/long910/articles/2026-05-05-kali-vs-parrot)
-- [AIとセキュリティ入門 ― LLMを狙う攻撃と防御を体系的に学ぶ](https://zenn.dev/long910/articles/2026-04-28-ai-security-learning)
 <!-- BLOG-POST-LIST:END -->
 
 ---
