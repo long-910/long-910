@@ -183,6 +183,7 @@ root@kali:~# _
 ### 📝 最新博客文章
 
 <!-- BLOG-POST-LIST:START -->
+- [AIはサイバー防御をどう変えているのか調べてみた——2026年の実態](https://zenn.dev/long910/articles/2026-06-09-ai-security-defense)
 - [sqlmap を使って SQL インジェクションを学んでみた](https://zenn.dev/long910/articles/2026-06-08-sqlmap-introduction)
 - [MacBook M5 に Hashcat をインストールして使ってみた](https://zenn.dev/long910/articles/2026-06-07-hashcat-mac-m5)
 - [CVE-2026-49975「HTTP/2 Bomb」をわかりやすく解説——AIが人間より先に気づいた脆弱性](https://zenn.dev/long910/articles/2026-06-05-cve-2026-49975-http2-bomb-ai)
@@ -192,7 +193,6 @@ root@kali:~# _
 - [レッドチームセキュリティ学習：ハッキングツールを5フェーズで整理](https://zenn.dev/long910/articles/2026-05-17-ceh-tools-guide)
 - [AmiVoice API × Claude APIで作るリアルタイム日本語音声対話システム](https://zenn.dev/long910/articles/2026-05-25-amivoice-claude-voice-assistant)
 - [Flipper One が気になったので調べてみた — ポケットサイズのLinux ARMコンピュータ](https://zenn.dev/long910/articles/2026-05-23-flipper-one-intro)
-- [MacOSおすすめアプリ完全ガイド 2026：用途別に厳選した必須ツール集](https://zenn.dev/long910/articles/2026-05-17-macos-recommended-apps)
 <!-- BLOG-POST-LIST:END -->
 
 ---
