@@ -183,6 +183,7 @@ root@kali:~# _
 ### 📝 最新のブログ記事
 
 <!-- BLOG-POST-LIST:START -->
+- [Claude Fable 5 登場——Mythosクラス初の一般公開、6/22までサブスクで無料](https://zenn.dev/long910/articles/2026-06-10-claude-fable-5-guide)
 - [AIはサイバー防御をどう変えているのか調べてみた——2026年の実態](https://zenn.dev/long910/articles/2026-06-09-ai-security-defense)
 - [sqlmap を使って SQL インジェクションを学んでみた](https://zenn.dev/long910/articles/2026-06-08-sqlmap-introduction)
 - [MacBook M5 に Hashcat をインストールして使ってみた](https://zenn.dev/long910/articles/2026-06-07-hashcat-mac-m5)
@@ -192,7 +193,6 @@ root@kali:~# _
 - [YouCam APIが気になったので調べてみた - ARと生成AIで美容体験を作るとは](https://zenn.dev/long910/articles/2026-05-30-youcam-api-investigation)
 - [レッドチームセキュリティ学習：ハッキングツールを5フェーズで整理](https://zenn.dev/long910/articles/2026-05-17-ceh-tools-guide)
 - [AmiVoice API × Claude APIで作るリアルタイム日本語音声対話システム](https://zenn.dev/long910/articles/2026-05-25-amivoice-claude-voice-assistant)
-- [Flipper One が気になったので調べてみた — ポケットサイズのLinux ARMコンピュータ](https://zenn.dev/long910/articles/2026-05-23-flipper-one-intro)
 <!-- BLOG-POST-LIST:END -->
 
 ---
