@@ -183,6 +183,7 @@ root@kali:~# _
 ### 📝 最新博客文章
 
 <!-- BLOG-POST-LIST:START -->
+- [セキュリティ用語を体系的に整理する——ツール・攻撃手法・暗号技術を一気に押さえる](https://zenn.dev/long910/articles/2026-06-14-security-terms-overview)
 - [Claude Code で使える MCP サーバーを試してみた——実用的だったものを整理する](https://zenn.dev/long910/articles/2026-06-13-mcp-servers-practical)
 - [Claude Fable 5 登場——Mythosクラス初の一般公開、6/22までサブスクで無料](https://zenn.dev/long910/articles/2026-06-10-claude-fable-5-guide)
 - [AIはサイバー防御をどう変えているのか調べてみた——2026年の実態](https://zenn.dev/long910/articles/2026-06-09-ai-security-defense)
@@ -192,7 +193,6 @@ root@kali:~# _
 - [MacBook M5 に John the Ripper をインストールして使ってみた](https://zenn.dev/long910/articles/2026-06-03-john-the-ripper-mac-m5)
 - [MacのUTMでParrotOSを動かしてみた（日本語入力・画面調整・共有フォルダも）](https://zenn.dev/long910/articles/2026-06-02-parrot-os-utm-mac-guide)
 - [YouCam APIが気になったので調べてみた - ARと生成AIで美容体験を作るとは](https://zenn.dev/long910/articles/2026-05-30-youcam-api-investigation)
-- [レッドチームセキュリティ学習：ハッキングツールを5フェーズで整理](https://zenn.dev/long910/articles/2026-05-17-ceh-tools-guide)
 <!-- BLOG-POST-LIST:END -->
 
 ---
