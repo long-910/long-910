@@ -167,16 +167,16 @@ root@kali:~# _
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/long-910/sec-learning/pull/1) in [long-910/sec-learning](https://github.com/long-910/sec-learning)
-2. 💪 Opened PR [#1](https://github.com/long-910/sec-learning/pull/1) in [long-910/sec-learning](https://github.com/long-910/sec-learning)
-3. 🎉 Merged PR [#48](https://github.com/long-910/zenn_dev/pull/48) in [long-910/zenn_dev](https://github.com/long-910/zenn_dev)
-4. 💪 Opened PR [#48](https://github.com/long-910/zenn_dev/pull/48) in [long-910/zenn_dev](https://github.com/long-910/zenn_dev)
-5. 🗣 Commented on [#35](https://github.com/long-910/vscode-claude-status/issues/35#issuecomment-4698031638) in [long-910/vscode-claude-status](https://github.com/long-910/vscode-claude-status)
-6. 🔒 Closed issue [#35](https://github.com/long-910/vscode-claude-status/issues/35) in [long-910/vscode-claude-status](https://github.com/long-910/vscode-claude-status)
-7. 🎉 Merged PR [#36](https://github.com/long-910/vscode-claude-status/pull/36) in [long-910/vscode-claude-status](https://github.com/long-910/vscode-claude-status)
-8. ℹ️ Assigned issue [#35](https://github.com/long-910/vscode-claude-status/issues/35) in [long-910/vscode-claude-status](https://github.com/long-910/vscode-claude-status)
-9. 💪 Opened PR [#36](https://github.com/long-910/vscode-claude-status/pull/36) in [long-910/vscode-claude-status](https://github.com/long-910/vscode-claude-status)
-10. 💪 Opened PR [#47](https://github.com/long-910/zenn_dev/pull/47) in [long-910/zenn_dev](https://github.com/long-910/zenn_dev)
+1. 🎉 Merged PR [#5](https://github.com/long-910/sec-learning/pull/5) in [long-910/sec-learning](https://github.com/long-910/sec-learning)
+2. 💪 Opened PR [#5](https://github.com/long-910/sec-learning/pull/5) in [long-910/sec-learning](https://github.com/long-910/sec-learning)
+3. 🎉 Merged PR [#4](https://github.com/long-910/sec-learning/pull/4) in [long-910/sec-learning](https://github.com/long-910/sec-learning)
+4. 💪 Opened PR [#4](https://github.com/long-910/sec-learning/pull/4) in [long-910/sec-learning](https://github.com/long-910/sec-learning)
+5. 🎉 Merged PR [#3](https://github.com/long-910/sec-learning/pull/3) in [long-910/sec-learning](https://github.com/long-910/sec-learning)
+6. 💪 Opened PR [#3](https://github.com/long-910/sec-learning/pull/3) in [long-910/sec-learning](https://github.com/long-910/sec-learning)
+7. 🎉 Merged PR [#2](https://github.com/long-910/sec-learning/pull/2) in [long-910/sec-learning](https://github.com/long-910/sec-learning)
+8. 💪 Opened PR [#2](https://github.com/long-910/sec-learning/pull/2) in [long-910/sec-learning](https://github.com/long-910/sec-learning)
+9. 🎉 Merged PR [#1](https://github.com/long-910/sec-learning/pull/1) in [long-910/sec-learning](https://github.com/long-910/sec-learning)
+10. 💪 Opened PR [#1](https://github.com/long-910/sec-learning/pull/1) in [long-910/sec-learning](https://github.com/long-910/sec-learning)
 <!--END_SECTION:activity-->
 
 ---
