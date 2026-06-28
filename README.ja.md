@@ -166,16 +166,16 @@ root@kali:~# _
 ### ⚡ 最近のアクティビティ
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#49](https://github.com/long-910/zenn_dev/pull/49) in [long-910/zenn_dev](https://github.com/long-910/zenn_dev)
-2. 🎉 Merged PR [#23](https://github.com/long-910/sec-learning/pull/23) in [long-910/sec-learning](https://github.com/long-910/sec-learning)
-3. 🎉 Merged PR [#49](https://github.com/long-910/zenn_dev/pull/49) in [long-910/zenn_dev](https://github.com/long-910/zenn_dev)
-4. 💪 Opened PR [#23](https://github.com/long-910/sec-learning/pull/23) in [long-910/sec-learning](https://github.com/long-910/sec-learning)
-5. 💪 Opened PR [#22](https://github.com/long-910/sec-learning/pull/22) in [long-910/sec-learning](https://github.com/long-910/sec-learning)
-6. 🎉 Merged PR [#19](https://github.com/long-910/sec-learning/pull/19) in [long-910/sec-learning](https://github.com/long-910/sec-learning)
-7. 🎉 Merged PR [#15](https://github.com/long-910/sec-learning/pull/15) in [long-910/sec-learning](https://github.com/long-910/sec-learning)
-8. 🎉 Merged PR [#14](https://github.com/long-910/sec-learning/pull/14) in [long-910/sec-learning](https://github.com/long-910/sec-learning)
-9. 💪 Opened PR [#21](https://github.com/long-910/sec-learning/pull/21) in [long-910/sec-learning](https://github.com/long-910/sec-learning)
-10. 💪 Opened PR [#20](https://github.com/long-910/sec-learning/pull/20) in [long-910/sec-learning](https://github.com/long-910/sec-learning)
+1. 🎉 Merged PR [#3](https://github.com/long-910/pmp_learning/pull/3) in [long-910/pmp_learning](https://github.com/long-910/pmp_learning)
+2. 💪 Opened PR [#3](https://github.com/long-910/pmp_learning/pull/3) in [long-910/pmp_learning](https://github.com/long-910/pmp_learning)
+3. 🎉 Merged PR [#2](https://github.com/long-910/pmp_learning/pull/2) in [long-910/pmp_learning](https://github.com/long-910/pmp_learning)
+4. 💪 Opened PR [#2](https://github.com/long-910/pmp_learning/pull/2) in [long-910/pmp_learning](https://github.com/long-910/pmp_learning)
+5. 💪 Opened PR [#49](https://github.com/long-910/zenn_dev/pull/49) in [long-910/zenn_dev](https://github.com/long-910/zenn_dev)
+6. 🎉 Merged PR [#23](https://github.com/long-910/sec-learning/pull/23) in [long-910/sec-learning](https://github.com/long-910/sec-learning)
+7. 🎉 Merged PR [#49](https://github.com/long-910/zenn_dev/pull/49) in [long-910/zenn_dev](https://github.com/long-910/zenn_dev)
+8. 💪 Opened PR [#23](https://github.com/long-910/sec-learning/pull/23) in [long-910/sec-learning](https://github.com/long-910/sec-learning)
+9. 💪 Opened PR [#22](https://github.com/long-910/sec-learning/pull/22) in [long-910/sec-learning](https://github.com/long-910/sec-learning)
+10. 🎉 Merged PR [#19](https://github.com/long-910/sec-learning/pull/19) in [long-910/sec-learning](https://github.com/long-910/sec-learning)
 <!--END_SECTION:activity-->
 
 ---
