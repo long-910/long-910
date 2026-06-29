@@ -183,6 +183,7 @@ root@kali:~# _
 ### 📝 最新のブログ記事
 
 <!-- BLOG-POST-LIST:START -->
+- [Jujutsuとは？ Gitとの関係とGitHub連携をわかりやすく解説](https://zenn.dev/long910/articles/2026-06-28-jujutsu-git-overview)
 - [AIが書いたコードをレビューする時間が、自分で書く時間を超えた——2026年の開発者事情を整理する](https://zenn.dev/long910/articles/2026-06-21-ai-agent-developer-workflow)
 - [セキュリティ用語を体系的に整理する——ツール・攻撃手法・暗号技術を一気に押さえる](https://zenn.dev/long910/articles/2026-06-14-security-terms-overview)
 - [Claude Code で使える MCP サーバーを試してみた——実用的だったものを整理する](https://zenn.dev/long910/articles/2026-06-13-mcp-servers-practical)
@@ -192,7 +193,6 @@ root@kali:~# _
 - [MacBook M5 に Hashcat をインストールして使ってみた](https://zenn.dev/long910/articles/2026-06-07-hashcat-mac-m5)
 - [CVE-2026-49975「HTTP/2 Bomb」をわかりやすく解説——AIが人間より先に気づいた脆弱性](https://zenn.dev/long910/articles/2026-06-05-cve-2026-49975-http2-bomb-ai)
 - [MacBook M5 に John the Ripper をインストールして使ってみた](https://zenn.dev/long910/articles/2026-06-03-john-the-ripper-mac-m5)
-- [MacのUTMでParrotOSを動かしてみた（日本語入力・画面調整・共有フォルダも）](https://zenn.dev/long910/articles/2026-06-02-parrot-os-utm-mac-guide)
 <!-- BLOG-POST-LIST:END -->
 
 ---
