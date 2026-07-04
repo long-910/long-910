@@ -167,16 +167,16 @@ root@kali:~# _
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#50](https://github.com/long-910/zenn_dev/pull/50) in [long-910/zenn_dev](https://github.com/long-910/zenn_dev)
-2. 💪 Opened PR [#50](https://github.com/long-910/zenn_dev/pull/50) in [long-910/zenn_dev](https://github.com/long-910/zenn_dev)
-3. 🎉 Merged PR [#4](https://github.com/long-910/pmp_learning/pull/4) in [long-910/pmp_learning](https://github.com/long-910/pmp_learning)
-4. 💪 Opened PR [#4](https://github.com/long-910/pmp_learning/pull/4) in [long-910/pmp_learning](https://github.com/long-910/pmp_learning)
-5. 🎉 Merged PR [#3](https://github.com/long-910/pmp_learning/pull/3) in [long-910/pmp_learning](https://github.com/long-910/pmp_learning)
-6. 💪 Opened PR [#3](https://github.com/long-910/pmp_learning/pull/3) in [long-910/pmp_learning](https://github.com/long-910/pmp_learning)
-7. 🎉 Merged PR [#2](https://github.com/long-910/pmp_learning/pull/2) in [long-910/pmp_learning](https://github.com/long-910/pmp_learning)
-8. 💪 Opened PR [#2](https://github.com/long-910/pmp_learning/pull/2) in [long-910/pmp_learning](https://github.com/long-910/pmp_learning)
-9. 💪 Opened PR [#49](https://github.com/long-910/zenn_dev/pull/49) in [long-910/zenn_dev](https://github.com/long-910/zenn_dev)
-10. 🎉 Merged PR [#23](https://github.com/long-910/sec-learning/pull/23) in [long-910/sec-learning](https://github.com/long-910/sec-learning)
+1. 🎉 Merged PR [#51](https://github.com/long-910/zenn_dev/pull/51) in [long-910/zenn_dev](https://github.com/long-910/zenn_dev)
+2. 💪 Opened PR [#51](https://github.com/long-910/zenn_dev/pull/51) in [long-910/zenn_dev](https://github.com/long-910/zenn_dev)
+3. 🎉 Merged PR [#50](https://github.com/long-910/zenn_dev/pull/50) in [long-910/zenn_dev](https://github.com/long-910/zenn_dev)
+4. 💪 Opened PR [#50](https://github.com/long-910/zenn_dev/pull/50) in [long-910/zenn_dev](https://github.com/long-910/zenn_dev)
+5. 🎉 Merged PR [#4](https://github.com/long-910/pmp_learning/pull/4) in [long-910/pmp_learning](https://github.com/long-910/pmp_learning)
+6. 💪 Opened PR [#4](https://github.com/long-910/pmp_learning/pull/4) in [long-910/pmp_learning](https://github.com/long-910/pmp_learning)
+7. 🎉 Merged PR [#3](https://github.com/long-910/pmp_learning/pull/3) in [long-910/pmp_learning](https://github.com/long-910/pmp_learning)
+8. 💪 Opened PR [#3](https://github.com/long-910/pmp_learning/pull/3) in [long-910/pmp_learning](https://github.com/long-910/pmp_learning)
+9. 🎉 Merged PR [#2](https://github.com/long-910/pmp_learning/pull/2) in [long-910/pmp_learning](https://github.com/long-910/pmp_learning)
+10. 💪 Opened PR [#2](https://github.com/long-910/pmp_learning/pull/2) in [long-910/pmp_learning](https://github.com/long-910/pmp_learning)
 <!--END_SECTION:activity-->
 
 ---
