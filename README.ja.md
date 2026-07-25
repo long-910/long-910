@@ -166,16 +166,16 @@ root@kali:~# _
 ### ⚡ 最近のアクティビティ
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#43](https://github.com/long-910/vscode-claude-status/pull/43) in [long-910/vscode-claude-status](https://github.com/long-910/vscode-claude-status)
-2. 💪 Opened PR [#42](https://github.com/long-910/vscode-claude-status/pull/42) in [long-910/vscode-claude-status](https://github.com/long-910/vscode-claude-status)
-3. 💪 Opened PR [#41](https://github.com/long-910/vscode-claude-status/pull/41) in [long-910/vscode-claude-status](https://github.com/long-910/vscode-claude-status)
-4. 💪 Opened PR [#40](https://github.com/long-910/vscode-claude-status/pull/40) in [long-910/vscode-claude-status](https://github.com/long-910/vscode-claude-status)
-5. 💪 Opened PR [#39](https://github.com/long-910/vscode-claude-status/pull/39) in [long-910/vscode-claude-status](https://github.com/long-910/vscode-claude-status)
-6. 💪 Opened PR [#38](https://github.com/long-910/vscode-claude-status/pull/38) in [long-910/vscode-claude-status](https://github.com/long-910/vscode-claude-status)
-7. 💪 Opened PR [#37](https://github.com/long-910/vscode-claude-status/pull/37) in [long-910/vscode-claude-status](https://github.com/long-910/vscode-claude-status)
-8. 🎉 Merged PR [#51](https://github.com/long-910/zenn_dev/pull/51) in [long-910/zenn_dev](https://github.com/long-910/zenn_dev)
-9. 💪 Opened PR [#51](https://github.com/long-910/zenn_dev/pull/51) in [long-910/zenn_dev](https://github.com/long-910/zenn_dev)
-10. 🎉 Merged PR [#50](https://github.com/long-910/zenn_dev/pull/50) in [long-910/zenn_dev](https://github.com/long-910/zenn_dev)
+1. 🎉 Merged PR [#23](https://github.com/long-910/dotfiles/pull/23) in [long-910/dotfiles](https://github.com/long-910/dotfiles)
+2. 💪 Opened PR [#23](https://github.com/long-910/dotfiles/pull/23) in [long-910/dotfiles](https://github.com/long-910/dotfiles)
+3. 💪 Opened PR [#43](https://github.com/long-910/vscode-claude-status/pull/43) in [long-910/vscode-claude-status](https://github.com/long-910/vscode-claude-status)
+4. 💪 Opened PR [#42](https://github.com/long-910/vscode-claude-status/pull/42) in [long-910/vscode-claude-status](https://github.com/long-910/vscode-claude-status)
+5. 💪 Opened PR [#41](https://github.com/long-910/vscode-claude-status/pull/41) in [long-910/vscode-claude-status](https://github.com/long-910/vscode-claude-status)
+6. 💪 Opened PR [#40](https://github.com/long-910/vscode-claude-status/pull/40) in [long-910/vscode-claude-status](https://github.com/long-910/vscode-claude-status)
+7. 💪 Opened PR [#39](https://github.com/long-910/vscode-claude-status/pull/39) in [long-910/vscode-claude-status](https://github.com/long-910/vscode-claude-status)
+8. 💪 Opened PR [#38](https://github.com/long-910/vscode-claude-status/pull/38) in [long-910/vscode-claude-status](https://github.com/long-910/vscode-claude-status)
+9. 💪 Opened PR [#37](https://github.com/long-910/vscode-claude-status/pull/37) in [long-910/vscode-claude-status](https://github.com/long-910/vscode-claude-status)
+10. 🎉 Merged PR [#51](https://github.com/long-910/zenn_dev/pull/51) in [long-910/zenn_dev](https://github.com/long-910/zenn_dev)
 <!--END_SECTION:activity-->
 
 ---
