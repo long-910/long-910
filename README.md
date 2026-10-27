@@ -184,6 +184,7 @@ root@kali:~# _
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SysReptor 入門——ペンテストレポートを HTML/Markdown で書いて PDF に出力する](https://zenn.dev/long910/articles/2026-10-27-sysreptor)
 - [OWASP ZAP を使った Web アプリ診断——スパイダーリングから脆弱性スキャンまで](https://zenn.dev/long910/articles/2026-07-04-owasp-zap)
 - [Jujutsuとは？ Gitとの関係とGitHub連携をわかりやすく解説](https://zenn.dev/long910/articles/2026-06-28-jujutsu-git-overview)
 - [AIが書いたコードをレビューする時間が、自分で書く時間を超えた——2026年の開発者事情を整理する](https://zenn.dev/long910/articles/2026-06-21-ai-agent-developer-workflow)
@@ -193,7 +194,6 @@ root@kali:~# _
 - [AIはサイバー防御をどう変えているのか調べてみた——2026年の実態](https://zenn.dev/long910/articles/2026-06-09-ai-security-defense)
 - [sqlmap を使って SQL インジェクションを学んでみた](https://zenn.dev/long910/articles/2026-06-08-sqlmap-introduction)
 - [MacBook M5 に Hashcat をインストールして使ってみた](https://zenn.dev/long910/articles/2026-06-07-hashcat-mac-m5)
-- [CVE-2026-49975「HTTP/2 Bomb」をわかりやすく解説——AIが人間より先に気づいた脆弱性](https://zenn.dev/long910/articles/2026-06-05-cve-2026-49975-http2-bomb-ai)
 <!-- BLOG-POST-LIST:END -->
 
 ---
