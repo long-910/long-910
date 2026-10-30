@@ -1,0 +1,37 @@
+name: Profile Visuals
+
+on:
+  schedule:
+    - cron: "30 5 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    name: Generate neofetch card and 3D contribution graph
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Render neofetch card
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          HTB_APP_TOKEN: ${{ secrets.HTB_APP_TOKEN }}
+        run: python3 .github/scripts/neofetch_card.py
+
+      - name: Render 3D contribution graph
+        uses: yoshi389111/github-profile-3d-contrib@v0.9.3
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Commit and push changes
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets profile-3d-contrib
+          git diff --cached --quiet && exit 0
+          git commit -m "Update profile visuals"
+          git pull --rebase origin main
+          git push

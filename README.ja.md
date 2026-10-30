@@ -28,6 +28,19 @@
 
 ### 🖥️ 自己紹介
 
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/long-910/long-910/main/assets/neofetch-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/long-910/long-910/main/assets/neofetch-light.svg" />
+  <img alt="long-910 neofetch" src="https://raw.githubusercontent.com/long-910/long-910/main/assets/neofetch-dark.svg" width="100%" />
+</picture>
+
+</div>
+
+<details>
+<summary><code>$ dmesg | less</code> — 起動ログ</summary>
+
 ```txt
 [    0.000000] Booting long-910-automotive-system v2.7.0
 [    0.001245] CPU: Arm Cortex-A78AE / x86_64 (Multi-Arch Support)
@@ -63,6 +76,8 @@ long-910@automotive:~$ ls -F ./workspace
 
 long-910@automotive:~$ _
 ```
+
+</details>
 
 ---
 
@@ -171,6 +186,12 @@ root@kali:~# _
 <div align="center">
 
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/long-910/long-910/main/profile-3d-contrib/profile-night-green.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/long-910/long-910/main/profile-3d-contrib/profile-green-animate.svg" />
+  <img alt="3D contribution graph" src="https://raw.githubusercontent.com/long-910/long-910/main/profile-3d-contrib/profile-night-green.svg" />
+</picture>
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/long-910/long-910/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/long-910/long-910/output/github-contribution-grid-snake.svg" />
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/long-910/long-910/output/github-contribution-grid-snake.svg" />
@@ -229,7 +250,7 @@ No activity tracked
 <div align="center">
 
 <sub>⚙️ 自動化</sub><br/>
-[![HTB](https://github.com/long-910/long-910/actions/workflows/htb-stats.yml/badge.svg)](https://github.com/long-910/long-910/actions/workflows/htb-stats.yml) [![Summary](https://github.com/long-910/long-910/actions/workflows/profile-summary-cards.yml/badge.svg)](https://github.com/long-910/long-910/actions/workflows/profile-summary-cards.yml) [![Waka](https://github.com/long-910/long-910/actions/workflows/waka-readme.yml/badge.svg)](https://github.com/long-910/long-910/actions/workflows/waka-readme.yml) [![Snake](https://github.com/long-910/long-910/actions/workflows/snake.yml/badge.svg)](https://github.com/long-910/long-910/actions/workflows/snake.yml) [![Zenn](https://github.com/long-910/long-910/actions/workflows/zenn-blog-post.yml/badge.svg)](https://github.com/long-910/long-910/actions/workflows/zenn-blog-post.yml) [![Activity](https://github.com/long-910/long-910/actions/workflows/recent-activity.yml/badge.svg)](https://github.com/long-910/long-910/actions/workflows/recent-activity.yml)
+[![HTB](https://github.com/long-910/long-910/actions/workflows/htb-stats.yml/badge.svg)](https://github.com/long-910/long-910/actions/workflows/htb-stats.yml) [![Visuals](https://github.com/long-910/long-910/actions/workflows/profile-visuals.yml/badge.svg)](https://github.com/long-910/long-910/actions/workflows/profile-visuals.yml) [![Summary](https://github.com/long-910/long-910/actions/workflows/profile-summary-cards.yml/badge.svg)](https://github.com/long-910/long-910/actions/workflows/profile-summary-cards.yml) [![Waka](https://github.com/long-910/long-910/actions/workflows/waka-readme.yml/badge.svg)](https://github.com/long-910/long-910/actions/workflows/waka-readme.yml) [![Snake](https://github.com/long-910/long-910/actions/workflows/snake.yml/badge.svg)](https://github.com/long-910/long-910/actions/workflows/snake.yml) [![Zenn](https://github.com/long-910/long-910/actions/workflows/zenn-blog-post.yml/badge.svg)](https://github.com/long-910/long-910/actions/workflows/zenn-blog-post.yml) [![Activity](https://github.com/long-910/long-910/actions/workflows/recent-activity.yml/badge.svg)](https://github.com/long-910/long-910/actions/workflows/recent-activity.yml)
 
 </div>
 
