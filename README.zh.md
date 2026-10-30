@@ -183,6 +183,7 @@ root@kali:~# _
 ### 📝 最新博客文章
 
 <!-- BLOG-POST-LIST:START -->
+- [LM Studio の使い方を図で整理した——モデル選びから API サーバー・CLI まで](https://zenn.dev/long910/articles/2026-10-29-lm-studio)
 - [SysReptor 入門——ペンテストレポートを HTML/Markdown で書いて PDF に出力する](https://zenn.dev/long910/articles/2026-10-27-sysreptor)
 - [OWASP ZAP を使った Web アプリ診断——スパイダーリングから脆弱性スキャンまで](https://zenn.dev/long910/articles/2026-07-04-owasp-zap)
 - [Jujutsuとは？ Gitとの関係とGitHub連携をわかりやすく解説](https://zenn.dev/long910/articles/2026-06-28-jujutsu-git-overview)
@@ -192,7 +193,6 @@ root@kali:~# _
 - [Claude Fable 5 登場——Mythosクラス初の一般公開、6/22までサブスクで無料](https://zenn.dev/long910/articles/2026-06-10-claude-fable-5-guide)
 - [AIはサイバー防御をどう変えているのか調べてみた——2026年の実態](https://zenn.dev/long910/articles/2026-06-09-ai-security-defense)
 - [sqlmap を使って SQL インジェクションを学んでみた](https://zenn.dev/long910/articles/2026-06-08-sqlmap-introduction)
-- [MacBook M5 に Hashcat をインストールして使ってみた](https://zenn.dev/long910/articles/2026-06-07-hashcat-mac-m5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
