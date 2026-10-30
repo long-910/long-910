@@ -10,7 +10,7 @@
 
 <a href="https://zenn.dev/long910"><img src="https://img.shields.io/badge/Zenn-long910-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white" alt="Zenn" /></a>
 <a href="https://910.jp/"><img src="https://img.shields.io/badge/Blog-910.jp-0D1117?style=for-the-badge&logo=jekyll&logoColor=white" alt="Blog" /></a>
-<a href="https://app.hackthebox.com/profile/698457"><img src="https://img.shields.io/badge/HackTheBox-910long-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=111927" alt="HackTheBox" /></a>
+<a href="https://app.hackthebox.com/users/698457"><img src="https://img.shields.io/badge/HackTheBox-910long-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=111927" alt="HackTheBox" /></a>
 <a href="https://marketplace.visualstudio.com/publishers/long-kudo"><img src="https://img.shields.io/badge/VS_Marketplace-long--kudo-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Marketplace" /></a>
 <br/>
 <a href="https://github.com/sponsors/long-910"><img src="https://img.shields.io/badge/Sponsor_Me-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="GitHub Sponsors" /></a>
@@ -115,7 +115,7 @@ long-910@automotive:~$ _
 [![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-000000?style=flat-square&logo=owasp&logoColor=white)](https://www.zaproxy.org/)
 [![sqlmap](https://img.shields.io/badge/sqlmap-B22222?style=flat-square)](https://sqlmap.org/)
 [![SysReptor](https://img.shields.io/badge/SysReptor-1E3A5F?style=flat-square)](https://docs.sysreptor.com/)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-111927?style=flat-square&logo=hackthebox&logoColor=9FEF00)](https://app.hackthebox.com/profile/698457)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-111927?style=flat-square&logo=hackthebox&logoColor=9FEF00)](https://app.hackthebox.com/users/698457)
 
 </div>
 
@@ -149,13 +149,13 @@ root@kali:~# _
 </td>
 <td width="38%" align="center" valign="middle">
 
-<a href="https://app.hackthebox.com/profile/698457">
+<a href="https://app.hackthebox.com/users/698457">
   <img src="https://www.hackthebox.com/badge/image/698457" alt="HackTheBox badge" />
 </a>
 
 <br/><br/>
 
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-910long-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=111927)](https://app.hackthebox.com/profile/698457)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-910long-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=111927)](https://app.hackthebox.com/users/698457)
 
 <sub>使用 <a href="https://github.com/long-910/vscode-htb-companion">vscode-htb-companion</a> 管理解题笔记 🧰</sub>
 
