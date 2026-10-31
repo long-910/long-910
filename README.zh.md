@@ -204,16 +204,16 @@ root@kali:~# _
 ### ⚡ 近期动态
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#49](https://github.com/long-910/vscode-claude-status/pull/49#issuecomment-6417610817) in [long-910/vscode-claude-status](https://github.com/long-910/vscode-claude-status)
-2. 🗣 Commented on [#47](https://github.com/long-910/vscode-claude-status/issues/47#issuecomment-6417622812) in [long-910/vscode-claude-status](https://github.com/long-910/vscode-claude-status)
-3. 🗣 Commented on [#48](https://github.com/long-910/vscode-claude-status/issues/48#issuecomment-6417620833) in [long-910/vscode-claude-status](https://github.com/long-910/vscode-claude-status)
-4. 🎉 Merged PR [#53](https://github.com/long-910/vscode-claude-status/pull/53) in [long-910/vscode-claude-status](https://github.com/long-910/vscode-claude-status)
-5. 💪 Opened PR [#53](https://github.com/long-910/vscode-claude-status/pull/53) in [long-910/vscode-claude-status](https://github.com/long-910/vscode-claude-status)
-6. 🎉 Merged PR [#52](https://github.com/long-910/vscode-claude-status/pull/52) in [long-910/vscode-claude-status](https://github.com/long-910/vscode-claude-status)
-7. 💪 Opened PR [#52](https://github.com/long-910/vscode-claude-status/pull/52) in [long-910/vscode-claude-status](https://github.com/long-910/vscode-claude-status)
-8. 🎉 Merged PR [#50](https://github.com/long-910/vscode-claude-status/pull/50) in [long-910/vscode-claude-status](https://github.com/long-910/vscode-claude-status)
-9. 🔒 Closed issue [#48](https://github.com/long-910/vscode-claude-status/issues/48) in [long-910/vscode-claude-status](https://github.com/long-910/vscode-claude-status)
-10. 🗣 Commented on [#48](https://github.com/long-910/vscode-claude-status/issues/48#issuecomment-6416568603) in [long-910/vscode-claude-status](https://github.com/long-910/vscode-claude-status)
+1. ❌ Closed PR [#24](https://github.com/long-910/vscode-claude-status/pull/24) in [long-910/vscode-claude-status](https://github.com/long-910/vscode-claude-status)
+2. ❌ Closed PR [#25](https://github.com/long-910/vscode-claude-status/pull/25) in [long-910/vscode-claude-status](https://github.com/long-910/vscode-claude-status)
+3. ❌ Closed PR [#37](https://github.com/long-910/vscode-claude-status/pull/37) in [long-910/vscode-claude-status](https://github.com/long-910/vscode-claude-status)
+4. ❌ Closed PR [#38](https://github.com/long-910/vscode-claude-status/pull/38) in [long-910/vscode-claude-status](https://github.com/long-910/vscode-claude-status)
+5. ❌ Closed PR [#39](https://github.com/long-910/vscode-claude-status/pull/39) in [long-910/vscode-claude-status](https://github.com/long-910/vscode-claude-status)
+6. ❌ Closed PR [#40](https://github.com/long-910/vscode-claude-status/pull/40) in [long-910/vscode-claude-status](https://github.com/long-910/vscode-claude-status)
+7. ❌ Closed PR [#41](https://github.com/long-910/vscode-claude-status/pull/41) in [long-910/vscode-claude-status](https://github.com/long-910/vscode-claude-status)
+8. ❌ Closed PR [#42](https://github.com/long-910/vscode-claude-status/pull/42) in [long-910/vscode-claude-status](https://github.com/long-910/vscode-claude-status)
+9. ❌ Closed PR [#43](https://github.com/long-910/vscode-claude-status/pull/43) in [long-910/vscode-claude-status](https://github.com/long-910/vscode-claude-status)
+10. 🗣 Commented on [#25](https://github.com/long-910/vscode-claude-status/pull/25#issuecomment-6540551579) in [long-910/vscode-claude-status](https://github.com/long-910/vscode-claude-status)
 <!--END_SECTION:activity-->
 
 ---
