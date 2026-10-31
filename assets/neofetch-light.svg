@@ -9,7 +9,7 @@ text { fill: #24292f; white-space: pre; }
 <rect x="0.5" y="0.5" width="984" height="641" rx="10" fill="#f6f8fa" stroke="#d0d7de"/>
 <path d="M0.5 30 V10.5 a10 10 0 0 1 10 -10 H974.5 a10 10 0 0 1 10 10 V30 Z" fill="#eaeef2" stroke="#d0d7de"/>
 <circle cx="20" cy="15" r="6" fill="#ff5f56"/><circle cx="40" cy="15" r="6" fill="#ffbd2e"/><circle cx="60" cy="15" r="6" fill="#27c93f"/>
-<text x="492.5" y="20" text-anchor="middle" class="d">long-910@automotive: ~ — neofetch · synced 2026-10-30 15:25 UTC</text>
+<text x="492.5" y="20" text-anchor="middle" class="d">long-910@automotive: ~ — neofetch · synced 2026-10-31 11:03 UTC</text>
 <text x="24" y="192" class="a">██       ██████  ███    ██  ██████ </text>
 <text x="24" y="212" class="a">██      ██    ██ ████   ██ ██      </text>
 <text x="24" y="232" class="a">██      ██    ██ ██ ██  ██ ██   ███</text>
@@ -24,7 +24,7 @@ text { fill: #24292f; white-space: pre; }
 <text x="24" y="472" class="a"> [ offensive  :: security ]</text>
 <text x="400" y="62"><tspan class="a">long-910@automotive</tspan><tspan class="d"> ————————————————————————————————————————</tspan></text>
 <text x="400" y="82"><tspan class="k">OS</tspan>:<tspan class="d"> ..................................... </tspan><tspan class="v">Linux, macOS, RTOS</tspan></text>
-<text x="400" y="102"><tspan class="k">Uptime</tspan>:<tspan class="d"> ........................ </tspan><tspan class="v">12 years, 6 months, 13 days</tspan></text>
+<text x="400" y="102"><tspan class="k">Uptime</tspan>:<tspan class="d"> ........................ </tspan><tspan class="v">12 years, 6 months, 14 days</tspan></text>
 <text x="400" y="122"><tspan class="k">Host</tspan>:<tspan class="d"> ...................... </tspan><tspan class="v">Automotive Embedded / ADAS / AD</tspan></text>
 <text x="400" y="142"><tspan class="k">Kernel</tspan>:<tspan class="d"> ............... </tspan><tspan class="v">NVIDIA Orin, Renesas R-Car, Visconti</tspan></text>
 <text x="400" y="162"><tspan class="k">IDE</tspan>:<tspan class="d"> ............................ </tspan><tspan class="v">VS Code, Claude Code, tmux</tspan></text>
@@ -42,12 +42,12 @@ text { fill: #24292f; white-space: pre; }
 <text x="400" y="402"></text>
 <text x="400" y="422"><tspan class="d">- </tspan><tspan class="a">GitHub Stats</tspan><tspan class="d"> —————————————————————————————————————————————</tspan></text>
 <text x="400" y="442"><tspan class="k">Repos</tspan>:<tspan class="d"> ........... </tspan><tspan class="v">42 {Contrib: 1}</tspan><tspan class="d"> | </tspan><tspan class="k">Stars</tspan>:<tspan class="d"> ............ </tspan><tspan class="v">101</tspan></text>
-<text x="400" y="462"><tspan class="k">Commits (yr)</tspan>:<tspan class="d"> ................ </tspan><tspan class="v">357</tspan><tspan class="d"> | </tspan><tspan class="k">Followers</tspan>:<tspan class="d"> ........ </tspan><tspan class="v">201</tspan></text>
-<text x="400" y="482"><tspan class="k">Contribs (yr)</tspan>:<tspan class="d"> ............... </tspan><tspan class="v">963</tspan><tspan class="d"> | </tspan><tspan class="k">PRs</tspan>:<tspan class="d"> .............. </tspan><tspan class="v">254</tspan></text>
-<text x="400" y="502"><tspan class="k">Zenn Articles</tspan>:<tspan class="d"> ................ </tspan><tspan class="v">61</tspan><tspan class="d"> | </tspan><tspan class="k">Likes</tspan>:<tspan class="d"> ............ </tspan><tspan class="v">333</tspan></text>
+<text x="400" y="462"><tspan class="k">Commits (yr)</tspan>:<tspan class="d"> ................ </tspan><tspan class="v">361</tspan><tspan class="d"> | </tspan><tspan class="k">Followers</tspan>:<tspan class="d"> ........ </tspan><tspan class="v">201</tspan></text>
+<text x="400" y="482"><tspan class="k">Contribs (yr)</tspan>:<tspan class="d"> ............... </tspan><tspan class="v">979</tspan><tspan class="d"> | </tspan><tspan class="k">PRs</tspan>:<tspan class="d"> .............. </tspan><tspan class="v">255</tspan></text>
+<text x="400" y="502"><tspan class="k">Zenn Articles</tspan>:<tspan class="d"> ................ </tspan><tspan class="v">61</tspan><tspan class="d"> | </tspan><tspan class="k">Likes</tspan>:<tspan class="d"> ............ </tspan><tspan class="v">334</tspan></text>
 <text x="400" y="522"></text>
 <text x="400" y="542"><tspan class="d">- </tspan><tspan class="a">HackTheBox</tspan><tspan class="d"> ———————————————————————————————————————————————</tspan></text>
-<text x="400" y="562"><tspan class="k">Rank</tspan>:<tspan class="d"> ..................... </tspan><tspan class="v">Hacker</tspan><tspan class="d"> | </tspan><tspan class="k">Global</tspan>:<tspan class="d"> .......... </tspan><tspan class="v">#860</tspan></text>
+<text x="400" y="562"><tspan class="k">Rank</tspan>:<tspan class="d"> ..................... </tspan><tspan class="v">Hacker</tspan><tspan class="d"> | </tspan><tspan class="k">Global</tspan>:<tspan class="d"> .......... </tspan><tspan class="v">#870</tspan></text>
 <text x="400" y="582"><tspan class="k">Owns</tspan>:<tspan class="d"> ............ </tspan><tspan class="v">32 usr / 30 sys</tspan><tspan class="d"> | </tspan><tspan class="k">Respect</tspan>:<tspan class="d"> ............ </tspan><tspan class="v">1</tspan></text>
 <text x="400" y="602"><tspan class="k">Progress</tspan>:<tspan class="d"> ............................. </tspan><tspan class="v">34.34% -&gt; Pro Hacker</tspan></text>
 </svg>
