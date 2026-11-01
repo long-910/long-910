@@ -240,7 +240,11 @@ root@kali:~# _
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python        22 mins               ████████████                46.04 %
+Markdown      18 mins               ██████████                  38.34 %
+Bash          3 mins                ██                          07.58 %
+YAML          3 mins                ██                          06.48 %
+Image (svg)   0 secs                                            00.70 %
 ```
 
 <!--END_SECTION:waka-->
