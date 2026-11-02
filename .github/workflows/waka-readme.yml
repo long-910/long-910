@@ -35,8 +35,11 @@ jobs:
           case "$status" in
             200|202)
               echo "ok=true" >> "$GITHUB_OUTPUT" ;;
-            401|403)
-              echo "::error::WakaTime API returned $status. WAKATIME_API_KEY is invalid or revoked. Regenerate it at https://wakatime.com/settings/api-key and update the repository secret."
+            401)
+              echo "::error::WakaTime API returned 401: WAKATIME_API_KEY is invalid. Check it at https://wakatime.com/settings/api-key and update the repository secret."
+              exit 1 ;;
+            403)
+              echo "::error::WakaTime API returned 403: the key authenticated but access to stats was refused (account/permission restriction, or the request was blocked upstream). See the response body above."
               exit 1 ;;
             *)
               echo "::warning::WakaTime API returned $status (likely transient); skipping today's update"
