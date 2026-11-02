@@ -14,13 +14,44 @@ jobs:
     steps:
       - uses: actions/checkout@v5
 
+      # Fail fast with a clear message instead of letting waka-readme retry
+      # for ~5 minutes and exit with "Unable to fetch data".
+      - name: Check WakaTime API access
+        id: precheck
+        env:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+        run: |
+          if [ -z "$WAKATIME_API_KEY" ]; then
+            echo "::warning::WAKATIME_API_KEY is not set; skipping WakaTime update"
+            echo "ok=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          status=$(curl -sS -o body.json -w '%{http_code}' --max-time 30 \
+            -u "${WAKATIME_API_KEY}:" \
+            https://wakatime.com/api/v1/users/current/stats/last_7_days || echo 000)
+          echo "WakaTime API status: $status"
+          head -c 500 body.json 2>/dev/null; echo
+          rm -f body.json
+          case "$status" in
+            200|202)
+              echo "ok=true" >> "$GITHUB_OUTPUT" ;;
+            401|403)
+              echo "::error::WakaTime API returned $status. WAKATIME_API_KEY is invalid or revoked. Regenerate it at https://wakatime.com/settings/api-key and update the repository secret."
+              exit 1 ;;
+            *)
+              echo "::warning::WakaTime API returned $status (likely transient); skipping today's update"
+              echo "ok=false" >> "$GITHUB_OUTPUT" ;;
+          esac
+
       - name: Update English README
+        if: steps.precheck.outputs.ok == 'true'
         uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           BLOCKS: " █"
 
       - name: Fix bar alignment and sync to JA/ZH READMEs
+        if: steps.precheck.outputs.ok == 'true'
         run: |
           python3 - <<'EOF'
           import re
@@ -64,6 +95,7 @@ jobs:
           EOF
 
       - name: Commit and push all changes
+        if: steps.precheck.outputs.ok == 'true'
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
