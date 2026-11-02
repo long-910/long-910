@@ -133,14 +133,14 @@ root@kali:~# htb-cli profile --id 698457
 
   ┌─[ HackTheBox :: 910long ]
   │  Rank       : Hacker
-  │  Global     : #863
+  │  Global     : #835
   │  Points     : 169
   │  Owns       : 33 user / 31 system
   │  Bloods     : 0 user / 0 system
   │  Respect    : 1
   │  Progress   : 34.34% -> Pro Hacker
   │  Country    : Japan
-  └─ synced 2026-11-01 11:35 UTC
+  └─ synced 2026-11-02 12:58 UTC
 
 root@kali:~# _
 ```
