@@ -140,7 +140,7 @@ root@kali:~# htb-cli profile --id 698457
   │  Respect    : 1
   │  Progress   : 34.34% -> Pro Hacker
   │  Country    : Japan
-  └─ synced 2026-11-02 12:58 UTC
+  └─ synced 2026-11-03 12:30 UTC
 
 root@kali:~# _
 ```
