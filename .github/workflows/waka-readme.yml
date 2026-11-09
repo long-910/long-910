@@ -36,10 +36,10 @@ jobs:
             200|202)
               echo "ok=true" >> "$GITHUB_OUTPUT" ;;
             401)
-              echo "::error::WakaTime API returned 401: WAKATIME_API_KEY is invalid. Check it at https://wakatime.com/settings/api-key and update the repository secret."
+              echo "::error::WakaTime API returned 401: the token in WAKATIME_API_KEY is invalid. Copy your personal OAuth token from https://wakatime.com/oauth into the repository secret."
               exit 1 ;;
             403)
-              echo "::error::WakaTime API returned 403: the key authenticated but access to stats was refused (account/permission restriction, or the request was blocked upstream). See the response body above."
+              echo "::error::WakaTime API returned 403. Since Nov 2026 WakaTime API keys are write-only (plugins only); WAKATIME_API_KEY must hold your personal OAuth token from https://wakatime.com/oauth. See the response body above."
               exit 1 ;;
             *)
               echo "::warning::WakaTime API returned $status (likely transient); skipping today's update"

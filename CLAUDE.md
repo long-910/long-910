@@ -30,7 +30,7 @@ This is a GitHub profile README repository (`long-910/long-910`). It contains no
 
 - `PROFILE_SUMMARY_CARDS` — classic PAT for `vn7n24fzkq/github-profile-summary-cards`; needs `repo` **and** `read:user` scopes (without `read:user` the profile-details and stats cards silently fail)
 - `HTB_APP_TOKEN` — HackTheBox App Token (HTB > Profile Settings > App Tokens) for the HTB stats workflow. HTB user ID is `698457`, display name `910long`
-- `WAKATIME_API_KEY` — WakaTime API key for coding stats
+- `WAKATIME_API_KEY` — despite the name, must hold the WakaTime **personal OAuth token** (https://wakatime.com/oauth), not the API key. Since Nov 2026 WakaTime API keys are write-only for editor plugins and reading stats with one returns 403 "API Keys are only for plugins". waka-readme sends it via Basic auth unchanged
 - `GITHUB_TOKEN` — auto-provided by GitHub Actions
 
 ## Auto-updated Sections
