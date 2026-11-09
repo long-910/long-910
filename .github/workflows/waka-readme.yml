@@ -56,6 +56,9 @@ jobs:
       - name: Fix bar alignment and sync to JA/ZH READMEs
         if: steps.precheck.outputs.ok == 'true'
         run: |
+          # waka-readme commits README.md via the GitHub API, not to this
+          # checkout, so pull its commit before reading README.md.
+          git pull --ff-only origin main
           python3 - <<'EOF'
           import re
 
