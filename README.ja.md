@@ -240,7 +240,8 @@ root@kali:~# _
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Markdown   11 mins               █████████████████████       83.53 %
+HTML       2 mins                ████                        16.47 %
 ```
 
 <!--END_SECTION:waka-->
