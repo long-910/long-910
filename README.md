@@ -240,8 +240,9 @@ root@kali:~# _
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   11 mins               █████████████████████       83.53 %
-HTML       2 mins                ████                        16.47 %
+Markdown   12 mins               ███████████████████         76.41 %
+HTML       2 mins                ████                        14.84 %
+Text       1 min                 ██                          08.75 %
 ```
 
 <!--END_SECTION:waka-->
